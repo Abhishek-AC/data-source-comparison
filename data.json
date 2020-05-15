@@ -1,0 +1,3434 @@
+[
+    {
+       "ID":"1",
+       "ParentID":"",
+       "name":"Open Democracy Lab",
+       "website":"https://www.democracylab.org/index/?section=Home",
+       "projects_list_url":"https://github.com/DemocracyLab",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"2",
+       "ParentID":"",
+       "name":"Code for All",
+       "website":"https://codeforall.org/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"3",
+       "ParentID":"2",
+       "name":"Code for America",
+       "website":"https://www.codeforamerica.org/",
+       "projects_list_url":"https://github.com/codeforamerica",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"4",
+       "ParentID":"3",
+       "name":"Code for Anchorage",
+       "website":"http://codeforanchorage.org/",
+       "projects_list_url":"https://github.com/codeforanchorage",
+       "city":"Anchorage, AK",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"5",
+       "ParentID":"3",
+       "name":"Code for Phoenix",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Phoenix, AZ",
+       "events_url":"https://www.meetup.com/CodeforPhoenix/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"6",
+       "ParentID":"3",
+       "name":"Code for Tucson",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForTucson",
+       "city":"Tucson, AZ",
+       "events_url":"https://www.meetup.com/Code-for-Tucson/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codefortucson"
+       }
+    },
+    {
+       "ID":"7",
+       "ParentID":"3",
+       "name":"Code for Fresno",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForFresno",
+       "city":"Fresno, CA",
+       "events_url":"https://www.meetup.com/Code-for-Fresno/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/code4fresno"
+       }
+    },
+    {
+       "ID":"8",
+       "ParentID":"3",
+       "name":"Code for Sacramento",
+       "website":"http://codeforsacramento.org/",
+       "projects_list_url":"https://github.com/code4sac",
+       "city":"Sacramento, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4sac/",
+          "twitter":"https://twitter.com/code4sac"
+       }
+    },
+    {
+       "ID":"9",
+       "ParentID":"3",
+       "name":"Code for San Francisco",
+       "website":"https://codeforsanfrancisco.org/",
+       "projects_list_url":"https://github.com/sfbrigade",
+       "city":"San Francisco, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforsanfrancisco/",
+          "twitter":"https://twitter.com/sfbrigade"
+       }
+    },
+    {
+       "ID":"10",
+       "ParentID":"3",
+       "name":"Code for San Jose",
+       "website":"https://www.codeforsanjose.com/",
+       "projects_list_url":"https://github.com/codeforsanjose",
+       "city":"San Jose, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"11",
+       "ParentID":"3",
+       "name":"Code for Sonoma County",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Santa Rosa, CA",
+       "events_url":"https://www.meetup.com/Code-for-Sonoma-County/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"12",
+       "ParentID":"3",
+       "name":"Hack for LA Brigade",
+       "website":"https://www.hackforla.org/",
+       "projects_list_url":"https://github.com/hackforla",
+       "city":"Los Angeles, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/hackforla/",
+          "twitter":"https://twitter.com/hackforla"
+       }
+    },
+    {
+       "ID":"13",
+       "ParentID":"3",
+       "name":"Open Oakland",
+       "website":"https://openoakland.org/",
+       "projects_list_url":"https://github.com/openoakland",
+       "city":"Oakland, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/openoakland"
+       }
+    },
+    {
+       "ID":"14",
+       "ParentID":"3",
+       "name":"Open San Diego",
+       "website":"https://opensandiego.org/",
+       "projects_list_url":"https://github.com/opensandiego",
+       "city":"San Diego, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/opensandiego"
+       }
+    },
+    {
+       "ID":"15",
+       "ParentID":"3",
+       "name":"Open Walnut Creek",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Walnut Creek, CA",
+       "events_url":"https://www.meetup.com/open-walnut-creek/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/openwalnutcreek"
+       }
+    },
+    {
+       "ID":"16",
+       "ParentID":"3",
+       "name":"OpenSMC",
+       "website":"https://www.opensmc.tech/",
+       "projects_list_url":"https://github.com/opensmc",
+       "city":"San Mateo County, CA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/opensmc"
+       }
+    },
+    {
+       "ID":"17",
+       "ParentID":"3",
+       "name":"Code for Boulder",
+       "website":"http://www.codeforboulder.org/",
+       "projects_list_url":"https://github.com/CodeForBoulder",
+       "city":"Boulder, CO",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforboulder"
+       }
+    },
+    {
+       "ID":"18",
+       "ParentID":"3",
+       "name":"Code for Denver",
+       "website":"https://codefordenver.org/#/",
+       "projects_list_url":"https://github.com/codefordenver",
+       "city":"Denver, CO",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefordenver/",
+          "twitter":"https://twitter.com/codefordenver"
+       }
+    },
+    {
+       "ID":"19",
+       "ParentID":"3",
+       "name":"Code for Fort Collins",
+       "website":"http://codeforfoco.org/",
+       "projects_list_url":"https://github.com/CodeForFoco",
+       "city":"Fort Collins, CO",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforFoCo/",
+          "twitter":"https://twitter.com/codeforfoco"
+       }
+    },
+    {
+       "ID":"20",
+       "ParentID":"3",
+       "name":"Code for Connecticut",
+       "website":"https://codeforconnecticut.org/",
+       "projects_list_url":"https://github.com/codeforct",
+       "city":"Hartford, CT",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforconn"
+       }
+    },
+    {
+       "ID":"21",
+       "ParentID":"3",
+       "name":"Open Data Delaware",
+       "website":"http://www.opendatadelaware.com/",
+       "projects_list_url":"https://github.com/OpenDataDE",
+       "city":"Wilmington, DE",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/opendatade/",
+          "twitter":"https://twitter.com/opendatade"
+       }
+    },
+    {
+       "ID":"22",
+       "ParentID":"3",
+       "name":"Code for DC",
+       "website":"https://codefordc.org/",
+       "projects_list_url":"https://github.com/codefordc",
+       "city":"Washington, DC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codefordc"
+       }
+    },
+    {
+       "ID":"23",
+       "ParentID":"3",
+       "name":"Code for Fort Lauderdale",
+       "website":"http://codeforftl.org/",
+       "projects_list_url":"https://github.com/codeforftl",
+       "city":"Fort Lauderdale, FL",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForFTL/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"24",
+       "ParentID":"3",
+       "name":"Code for Miami",
+       "website":"https://www.codeformiami.com/",
+       "projects_list_url":"https://github.com/Code-for-Miami",
+       "city":"Miami, FL",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForMiami/",
+          "twitter":"https://twitter.com/codeformiami"
+       }
+    },
+    {
+       "ID":"25",
+       "ParentID":"3",
+       "name":"Code for Orlando",
+       "website":"http://www.codefororlando.com/",
+       "projects_list_url":"https://github.com/cforlando",
+       "city":"Orlando, FL",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefororlando/",
+          "twitter":"https://twitter.com/codefororlando"
+       }
+    },
+    {
+       "ID":"26",
+       "ParentID":"3",
+       "name":"Code for Tallahassee",
+       "website":"",
+       "projects_list_url":"https://github.com/codefortallahassee",
+       "city":"Tallahassee, FL",
+       "events_url":"https://www.meetup.com/code-for-tallahassee/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"27",
+       "ParentID":"3",
+       "name":"Code for Tampa Bay",
+       "website":"https://codefortampabay.org/",
+       "projects_list_url":"https://github.com/code-for-tb",
+       "city":"Tampa Bay, FL",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforTampaBay/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"28",
+       "ParentID":"3",
+       "name":"Code for Atlanta",
+       "website":"https://www.codeforatlanta.org/",
+       "projects_list_url":"https://github.com/codeforatlanta",
+       "city":"Atlanta, GA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforatlanta/",
+          "twitter":"https://twitter.com/codeforatlanta"
+       }
+    },
+    {
+       "ID":"29",
+       "ParentID":"3",
+       "name":"Open Savannah",
+       "website":"https://opensavannah.org/",
+       "projects_list_url":"https://github.com/opensavannah",
+       "city":"Savannah, GA",
+       "events_url":"https://www.meetup.com/opensavannah/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/opensavannah"
+       }
+    },
+    {
+       "ID":"30",
+       "ParentID":"3",
+       "name":"Code for Hawaii",
+       "website":"http://www.codeforhawaii.org/",
+       "projects_list_url":"https://github.com/CodeforHawaii",
+       "city":"Honolulu, HI",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforhawaii/",
+          "twitter":"https://twitter.com/CodeforHawaii"
+       }
+    },
+    {
+       "ID":"31",
+       "ParentID":"3",
+       "name":"Code for Boise",
+       "website":"https://www.openboise.org/",
+       "projects_list_url":"https://github.com/CodeForBoise",
+       "city":"Boise, ID",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForBoise"
+       }
+    },
+    {
+       "ID":"32",
+       "ParentID":"3",
+       "name":"Code for Chicago",
+       "website":"https://codeforchicago.org/",
+       "projects_list_url":"https://github.com/Chicago",
+       "city":"Chicago, IL",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForChicago"
+       }
+    },
+    {
+       "ID":"33",
+       "ParentID":"3",
+       "name":"Code for Bloomington",
+       "website":"https://bmghack.github.io/",
+       "projects_list_url":"https://github.com/BMGhack",
+       "city":"Bloomington, IN",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForBMG"
+       }
+    },
+    {
+       "ID":"34",
+       "ParentID":"3",
+       "name":"Code for Indianapolis",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Indianapolis, IN",
+       "events_url":"https://www.meetup.com/Code-for-Indianapolis/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"35",
+       "ParentID":"3",
+       "name":"Hack Michiana",
+       "website":"http://www.hackmichiana.org/",
+       "projects_list_url":"https://github.com/hackmichiana",
+       "city":"South Bend, IN",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/HackMichiana"
+       }
+    },
+    {
+       "ID":"36",
+       "ParentID":"3",
+       "name":"Code for Iowa",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Iowa City, IA",
+       "events_url":"https://www.meetup.com/Code-for-Iowa/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforiowa"
+       }
+    },
+    {
+       "ID":"37",
+       "ParentID":"3",
+       "name":"Code for Kentuckiana",
+       "website":"https://codeforkentuckiana.org/",
+       "projects_list_url":"https://github.com/CodeForKYana",
+       "city":"Louisville, KY",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforkyana"
+       }
+    },
+    {
+       "ID":"38",
+       "ParentID":"3",
+       "name":"Code for New Orleans",
+       "website":"http://codeforneworleans.org/",
+       "projects_list_url":"https://github.com/codefornola",
+       "city":"New Orleans, LA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codefornola"
+       }
+    },
+    {
+       "ID":"39",
+       "ParentID":"3",
+       "name":"Open Maine",
+       "website":"http://openmaine.org/",
+       "projects_list_url":"https://github.com/OpenMaine",
+       "city":"Portland, ME",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/Open_Maine"
+       }
+    },
+    {
+       "ID":"40",
+       "ParentID":"3",
+       "name":"Code for Baltimore",
+       "website":"https://www.codeforbaltimore.org/",
+       "projects_list_url":"https://github.com/CodeForBaltimore",
+       "city":"Baltimore, MD",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForBmore"
+       }
+    },
+    {
+       "ID":"41",
+       "ParentID":"3",
+       "name":"Code for Boston",
+       "website":"https://www.codeforboston.org/",
+       "projects_list_url":"https://github.com/codeforboston",
+       "city":"Boston, MA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForBoston"
+       }
+    },
+    {
+       "ID":"42",
+       "ParentID":"3",
+       "name":"Code for Lansing",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforlansing/",
+       "city":"Lansing, MI",
+       "events_url":"https://www.meetup.com/Code-for-Lansing/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4lansing/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"43",
+       "ParentID":"3",
+       "name":"Open Twin Cities",
+       "website":"http://www.opentwincities.org/",
+       "projects_list_url":"https://github.com/OpenTwinCities",
+       "city":"Minneapolis, MN",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/OpenTwinCities/",
+          "twitter":"https://twitter.com/OpenTwinCities"
+       }
+    },
+    {
+       "ID":"44",
+       "ParentID":"3",
+       "name":"KC Digital Drive",
+       "website":"http://codeforkc.org/",
+       "projects_list_url":"https://github.com/codeforkansascity",
+       "city":"Kansas City, MO",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/kcdigitaldrive/",
+          "twitter":"https://twitter.com/KCDigitalDrive"
+       }
+    },
+    {
+       "ID":"45",
+       "ParentID":"3",
+       "name":"OpenSTL",
+       "website":"https://openstl.org/",
+       "projects_list_url":"https://github.com/openstl",
+       "city":"St. Louis, MO",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/open_stl"
+       }
+    },
+    {
+       "ID":"46",
+       "ParentID":"3",
+       "name":"Code for Montana",
+       "website":"",
+       "projects_list_url":"https://github.com/code-for-montana",
+       "city":"Missoula, MT",
+       "events_url":"https://www.meetup.com/Code-for-Montana/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"47",
+       "ParentID":"3",
+       "name":"Code for Las Vegas",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforvegas",
+       "city":"Las Vegas, NV",
+       "events_url":"https://www.meetup.com/Code-for-Las-Vegas/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"48",
+       "ParentID":"3",
+       "name":"Code for New Hampshire",
+       "website":"http://www.codefornh.org/",
+       "projects_list_url":"https://github.com/codefornh",
+       "city":"Manchester, NH",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"49",
+       "ParentID":"3",
+       "name":"Code for Hackensack",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Hackensack, NJ",
+       "events_url":"https://www.meetup.com/Code-for-Hackensack/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"50",
+       "ParentID":"3",
+       "name":"Code for Jersey City",
+       "website":"http://codeforjerseycity.org/",
+       "projects_list_url":"https://github.com/codeforjerseycity",
+       "city":"Jersey City, NJ",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForJC/",
+          "twitter":"https://twitter.com/codeforjc"
+       }
+    },
+    {
+       "ID":"51",
+       "ParentID":"3",
+       "name":"Code for Newark",
+       "website":"www.codefornewark.org",
+       "projects_list_url":"https://github.com/code4newark",
+       "city":"Newark, NJ",
+       "events_url":"https://www.meetup.com/Code-for-Newark/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefornewark/",
+          "twitter":"https://twitter.com/codefornewark"
+       }
+    },
+    {
+       "ID":"52",
+       "ParentID":"3",
+       "name":"Code for ABQ",
+       "website":"codefornm.org",
+       "projects_list_url":"https://github.com/codeforabq",
+       "city":"Albuquerque, NM",
+       "events_url":"https://www.meetup.com/Code-for-ABQ/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/groups/codeforabq/",
+          "twitter":"https://twitter.com/codeforabq"
+       }
+    },
+    {
+       "ID":"53",
+       "ParentID":"3",
+       "name":"BetaNYC",
+       "website":"https://beta.nyc/",
+       "projects_list_url":"https://github.com/betanyc",
+       "city":"New York, NY",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/BetaNYC/?__tn__=%2Cd%2CP-R&eid=ARDlQCSBdP_IySMVdOWN3QasWv5rNbg07yk7NQ1oViFco6zakJxiOdUHRbchPU9gJyKcaNV-zhspW5g_",
+          "twitter":"https://twitter.com/BetaNYC"
+       }
+    },
+    {
+       "ID":"54",
+       "ParentID":"3",
+       "name":"Code for Buffalo",
+       "website":"https://www.codeforbuffalo.org/",
+       "projects_list_url":"https://github.com/CodeForBuffalo",
+       "city":"Buffalo, NY",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForBuffalo/",
+          "twitter":"https://twitter.com/CodeForBuffalo"
+       }
+    },
+    {
+       "ID":"55",
+       "ParentID":"3",
+       "name":"Code for Syracuse",
+       "website":"",
+       "projects_list_url":"https://github.com/code-for-syracuse",
+       "city":"Syracuse, NY",
+       "events_url":"https://www.meetup.com/Code-for-Syracuse/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForSyracuse"
+       }
+    },
+    {
+       "ID":"56",
+       "ParentID":"3",
+       "name":"Code for Asheville",
+       "website":"https://www.codeforasheville.org/",
+       "projects_list_url":"https://github.com/codeforasheville",
+       "city":"Asheville, NC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforasheville/",
+          "twitter":"https://twitter.com/code4asheville"
+       }
+    },
+    {
+       "ID":"57",
+       "ParentID":"3",
+       "name":"Code for Cary",
+       "website":"http://www.codeforcary.org/",
+       "projects_list_url":"https://github.com/codeforcary",
+       "city":"Cary, NC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForCary"
+       }
+    },
+    {
+       "ID":"58",
+       "ParentID":"3",
+       "name":"Code for Chapel Hill",
+       "website":"http://www.codeforchapelhill.com/",
+       "projects_list_url":"https://github.com/code-for-chapel-hill",
+       "city":"Chapel Hill, NC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForCH"
+       }
+    },
+    {
+       "ID":"59",
+       "ParentID":"3",
+       "name":"Code for Durham",
+       "website":"https://codefordurham.com/",
+       "projects_list_url":"https://github.com/codefordurham",
+       "city":"Durham, NC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefordurham/",
+          "twitter":"https://twitter.com/codefordurham"
+       }
+    },
+    {
+       "ID":"60",
+       "ParentID":"3",
+       "name":"Code for Greensboro",
+       "website":"https://codeforgreensboro.org/",
+       "projects_list_url":"https://github.com/codeforgso",
+       "city":"Greensboro, NC",
+       "events_url":"https://www.meetup.com/Code-for-Greensboro/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforgreensboro/",
+          "twitter":"https://twitter.com/CodeForGSO"
+       }
+    },
+    {
+       "ID":"61",
+       "ParentID":"3",
+       "name":"Open Charlotte Brigade",
+       "website":"https://opencharlotte.org/",
+       "projects_list_url":"https://github.com/OpenCLTBrigade",
+       "city":"Charlotte, NC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/OpenCLTBrigade/",
+          "twitter":"https://twitter.com/OpenCLTBrigade"
+       }
+    },
+    {
+       "ID":"62",
+       "ParentID":"3",
+       "name":"Open NC Collaborative",
+       "website":"https://opennc-collaborative.org/",
+       "projects_list_url":"https://github.com/Open-NC",
+       "city":"North Carolina",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"63",
+       "ParentID":"3",
+       "name":"Open Raleigh Brigade",
+       "website":"http://ncopenpass.com/",
+       "projects_list_url":"https://github.com/ncopenpass",
+       "city":"Raleigh, NC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/OpenRaleighBrigade/",
+          "twitter":"https://twitter.com/RaleighBrigade"
+       }
+    },
+    {
+       "ID":"64",
+       "ParentID":"3",
+       "name":"Code for Dayton",
+       "website":"https://codefordayton.org/",
+       "projects_list_url":"https://github.com/codefordayton",
+       "city":"Dayton, OH",
+       "events_url":"https://www.meetup.com/Code-for-Dayton/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code-For-Dayton-1501498193512256/",
+          "twitter":"https://twitter.com/codefordayton"
+       }
+    },
+    {
+       "ID":"65",
+       "ParentID":"3",
+       "name":"Open Cleveland",
+       "website":"https://www.opencleveland.org/",
+       "projects_list_url":"https://github.com/opencleveland",
+       "city":"Cleveland, OH",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/opencleveland"
+       }
+    },
+    {
+       "ID":"66",
+       "ParentID":"3",
+       "name":"Open Toledo",
+       "website":"",
+       "projects_list_url":"https://github.com/OpenToledo",
+       "city":"Toledo, OH",
+       "events_url":"https://www.meetup.com/Open-Toledo/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/OpenToledo"
+       }
+    },
+    {
+       "ID":"67",
+       "ParentID":"3",
+       "name":"OpenColumbus (Ohio)",
+       "website":"https://www.scodemeetup.org/",
+       "projects_list_url":"https://github.com/SCODEMeetup",
+       "city":"Columbus, OH",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/opencolumbus/",
+          "twitter":"https://twitter.com/OpenColumbus"
+       }
+    },
+    {
+       "ID":"68",
+       "ParentID":"3",
+       "name":"Code for Muskogee",
+       "website":"",
+       "projects_list_url":"https://github.com/codeformuskogee",
+       "city":"Muskogee, OK",
+       "events_url":"https://www.meetup.com/Code-for-Muskogee/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code-for-Muskogee-574639612880672/",
+          "twitter":"https://twitter.com/CodeForMuskogee"
+       }
+    },
+    {
+       "ID":"69",
+       "ParentID":"3",
+       "name":"Code for Tulsa",
+       "website":"https://codefortulsa.org/",
+       "projects_list_url":"https://github.com/codefortulsa",
+       "city":"Tulsa, OK",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForTulsa/",
+          "twitter":"https://twitter.com/CodeForTulsa"
+       }
+    },
+    {
+       "ID":"70",
+       "ParentID":"3",
+       "name":"Code for PDX",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforpdx",
+       "city":"Portland, OR",
+       "events_url":"https://www.meetup.com/Code-for-PDX/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"71",
+       "ParentID":"3",
+       "name":"Open Eugene",
+       "website":"",
+       "projects_list_url":"https://github.com/OpenEugene",
+       "city":"Eugene, OR",
+       "events_url":"https://www.meetup.com/Open-Eugene/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/openeugene/",
+          "twitter":"https://twitter.com/open_eugene"
+       }
+    },
+    {
+       "ID":"72",
+       "ParentID":"3",
+       "name":"Code for Philly",
+       "website":"https://codeforphilly.org/",
+       "projects_list_url":"https://github.com/CodeForPhilly",
+       "city":"Philadelphia, PA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforphilly/",
+          "twitter":"https://twitter.com/CodeForPhilly"
+       }
+    },
+    {
+       "ID":"73",
+       "ParentID":"3",
+       "name":"Code for Pittsburgh",
+       "website":"https://codeforpittsburgh.github.io/",
+       "projects_list_url":"https://github.com/codeforpittsburgh",
+       "city":"Pittsburgh, PA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforpgh"
+       }
+    },
+    {
+       "ID":"74",
+       "ParentID":"3",
+       "name":"Code for Puerto Rico",
+       "website":"http://code4puertorico.org/",
+       "projects_list_url":"https://github.com/Code4PuertoRico",
+       "city":"San Juan, PR",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"75",
+       "ParentID":"3",
+       "name":"Code Island",
+       "website":"http://www.code-island.org/",
+       "projects_list_url":"https://github.com/codeisland/",
+       "city":"Providence, RI",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeisland/",
+          "twitter":"https://twitter.com/Code_Island"
+       }
+    },
+    {
+       "ID":"76",
+       "ParentID":"3",
+       "name":"Code for Greenville",
+       "website":"https://codeforgreenville.org/",
+       "projects_list_url":"https://github.com/codeforgreenville",
+       "city":"Greenville, SC",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforGVL/",
+          "twitter":"https://twitter.com/CodeforGVL"
+       }
+    },
+    {
+       "ID":"77",
+       "ParentID":"3",
+       "name":"Code for Nashville",
+       "website":"http://www.codefornashville.org/",
+       "projects_list_url":"https://github.com/code-for-nashville",
+       "city":"Nashville, TN",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/code4nashville"
+       }
+    },
+    {
+       "ID":"78",
+       "ParentID":"3",
+       "name":"Code for BCS",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Bryan-College Station, TX",
+       "events_url":"https://www.meetup.com/CodeforBCS/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeforBCS"
+       }
+    },
+    {
+       "ID":"79",
+       "ParentID":"3",
+       "name":"Code for Dallas",
+       "website":"",
+       "projects_list_url":"",
+       "city":"Dallas, TX",
+       "events_url":"https://www.meetup.com/Code-for-Dallas/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/code_dallas"
+       }
+    },
+    {
+       "ID":"80",
+       "ParentID":"3",
+       "name":"Open Austin",
+       "website":"https://www.open-austin.org/",
+       "projects_list_url":"https://github.com/open-austin",
+       "city":"Austin, TX",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/openatx/",
+          "twitter":"https://twitter.com/openaustin"
+       }
+    },
+    {
+       "ID":"81",
+       "ParentID":"3",
+       "name":"Sketch City (Houston)",
+       "website":"http://sketchcity.org/",
+       "projects_list_url":"https://github.com/sketch-city",
+       "city":"Houston, TX",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/groups/openhoustongov/",
+          "twitter":"https://twitter.com/sketchcityhou"
+       }
+    },
+    {
+       "ID":"82",
+       "ParentID":"3",
+       "name":"Code for Utah",
+       "website":"https://opensaltlake.org/",
+       "projects_list_url":"https://github.com/OpenSaltLake",
+       "city":"Salt Lake City, UT",
+       "events_url":"https://www.meetup.com/CodeforUtah/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeforUtah"
+       }
+    },
+    {
+       "ID":"83",
+       "ParentID":"3",
+       "name":"Code for BTV",
+       "website":"http://www.codeforbtv.org/",
+       "projects_list_url":"https://github.com/codeforbtv",
+       "city":"Burlington, VT",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForBtv/",
+          "twitter":"https://twitter.com/CodeForBTV"
+       }
+    },
+    {
+       "ID":"84",
+       "ParentID":"3",
+       "name":"Code for Charlottesville",
+       "website":"",
+       "projects_list_url":"https://github.com/code-for-charlottesville",
+       "city":"Charlottesville, VA",
+       "events_url":"https://www.meetup.com/Code-for-Charlottesville/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"85",
+       "ParentID":"3",
+       "name":"Code for Hampton Roads",
+       "website":"http://code4hr.org/",
+       "projects_list_url":"https://github.com/code4hr",
+       "city":"Virginia Beach, VA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4hr/",
+          "twitter":"https://twitter.com/Code4HR"
+       }
+    },
+    {
+       "ID":"86",
+       "ParentID":"3",
+       "name":"Code for New River Valley",
+       "website":"https://www.codefornrv.org/",
+       "projects_list_url":"https://github.com/codefornrv",
+       "city":"Radford, VA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefornrv/",
+          "twitter":"https://twitter.com/CodeForNRV"
+       }
+    },
+    {
+       "ID":"87",
+       "ParentID":"3",
+       "name":"Open Seattle",
+       "website":"https://openseattle.org/",
+       "projects_list_url":"https://github.com/openseattle",
+       "city":"Seattle, WA",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/open_seattle"
+       }
+    },
+    {
+       "ID":"88",
+       "ParentID":"3",
+       "name":"Code for Milwaukee",
+       "website":"",
+       "projects_list_url":"https://github.com/codeformilwaukee",
+       "city":"Milwaukee, WI",
+       "events_url":"https://www.meetup.com/Code-for-Milwaukee/",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code-for-Milwaukee-622396371575546/",
+          "twitter":"https://twitter.com/codeformke"
+       }
+    },
+    {
+       "ID":"89",
+       "ParentID":"2",
+       "name":"Code for Canada",
+       "website":"https://codefor.ca/",
+       "projects_list_url":"https://github.com/code-for-canada",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4ca/",
+          "twitter":"https://twitter.com/code4ca"
+       }
+    },
+    {
+       "ID":"90",
+       "ParentID":"89",
+       "name":"Civic Tech Toronto",
+       "website":"http://civictech.ca",
+       "projects_list_url":"https://github.com/civictechto",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CivicTechTO/",
+          "twitter":"https://twitter.com/CivicTechTO"
+       }
+    },
+    {
+       "ID":"91",
+       "ParentID":"89",
+       "name":"Beta City YEG",
+       "website":"https://betacity.ca",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/BetaCityYEG"
+       }
+    },
+    {
+       "ID":"92",
+       "ParentID":"89",
+       "name":"Ottawa Civic Tech",
+       "website":"http://yowcivictech.ca",
+       "projects_list_url":"https://github.com/YOWCT",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/yowcivictech/",
+          "twitter":"https://twitter.com/yowcivictech"
+       }
+    },
+    {
+       "ID":"93",
+       "ParentID":"89",
+       "name":"Civic Tech London",
+       "website":"http://civictechlondon.ca/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CivicTechLDN"
+       }
+    },
+    {
+       "ID":"94",
+       "ParentID":"89",
+       "name":"Civic Tech Waterloo Region",
+       "website":"https://civictechwr.org",
+       "projects_list_url":"https://github.com/CivicTechWR",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"95",
+       "ParentID":"89",
+       "name":"Civic Tech Fredericton",
+       "website":"http://www.civictechfredericton.com",
+       "projects_list_url":"https://github.com/CivicTechFredericton/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CivicTechFredericton/",
+          "twitter":"https://twitter.com/CivicTechFred"
+       }
+    },
+    {
+       "ID":"96",
+       "ParentID":"89",
+       "name":"Civic Tech Vancouver",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/Civic-Tech-Vancouver",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/civictechvancouver/",
+          "twitter":"https://twitter.com/CivicTechYVR"
+       }
+    },
+    {
+       "ID":"97",
+       "ParentID":"89",
+       "name":"Civic Tech YYC",
+       "website":"",
+       "projects_list_url":"https://github.com/CivicTechYYC",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CivicTechYYC"
+       }
+    },
+    {
+       "ID":"98",
+       "ParentID":"89",
+       "name":"Open North",
+       "website":"http://www.opennorth.ca",
+       "projects_list_url":"Open North",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/OpenNorth.NordOuvert/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"99",
+       "ParentID":"89",
+       "name":"Data for Good Ottawa",
+       "website":"http://www.dataforgoodottawa.org",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"100",
+       "ParentID":"89",
+       "name":"Data for Good Vancouver",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/DataforGood-Vancouver",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"101",
+       "ParentID":"89",
+       "name":"Data for Good Montr\ufffdal",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/DataforGood-Montreal",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"102",
+       "ParentID":"89",
+       "name":"Data for Good Toronto",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/DataforGood",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"103",
+       "ParentID":"89",
+       "name":"Data for Good Calgary",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/Data-for-Good-Calgary",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"104",
+       "ParentID":"89",
+       "name":"OpenDataBC",
+       "website":"",
+       "projects_list_url":"https://github.com/OpenDataBC",
+       "city":"",
+       "events_url":"https://www.meetup.com/OpenDataBC-Vancouver",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"105",
+       "ParentID":"2",
+       "name":"Code for Japan",
+       "website":"https://www.code4japan.org/brigade",
+       "projects_list_url":"https://github.com/codeforjapan",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforjapan/",
+          "twitter":"https://twitter.com/codeforJP"
+       }
+    },
+    {
+       "ID":"106",
+       "ParentID":"105",
+       "name":"Code for Tokyo\ufffd",
+       "website":"https://codefor.tokyo/",
+       "projects_list_url":"https://github.com/codefortokyo",
+       "city":"\ufffdTokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefortokyo/",
+          "twitter":"https://twitter.com/codefortokyo"
+       }
+    },
+    {
+       "ID":"107",
+       "ParentID":"105",
+       "name":"Code for Sapporo\ufffd",
+       "website":"http://www.codeforsapporo.org/",
+       "projects_list_url":"https://github.com/codeforsapporo",
+       "city":"\ufffdSapporo, Hokkaido",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"108",
+       "ParentID":"105",
+       "name":"Code for Hakodate\ufffd",
+       "website":"http://codeforhakodate.org/",
+       "projects_list_url":"https://github.com/codeforhakodate",
+       "city":"\ufffdHakodate, Hokkaido",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4hakodate/",
+          "twitter":"https://twitter.com/codeforhakodate"
+       }
+    },
+    {
+       "ID":"109",
+       "ParentID":"105",
+       "name":"Code for Muroran\ufffd",
+       "website":"https://ja.localwiki.org/mr/Code_for_Muroran",
+       "projects_list_url":"https://github.com/muroran/",
+       "city":"\ufffdHokkaido Muroran",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"110",
+       "ParentID":"105",
+       "name":"????\ufffd",
+       "website":"https://howmori.org/",
+       "projects_list_url":"https://github.com/howml",
+       "city":"\ufffdHokkaido Mori-machi",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/howmori/?__tn__=%2Cd%2CP-R&eid=ARCjFJGX8P9UoeEoB89kJVPfH31uwqxIZqn-5jvEZIE6CTbnZ0ZEkfpqeA1UCBx8ykDCEQKUHjiTSqP0",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"111",
+       "ParentID":"105",
+       "name":"Code for Aomori\ufffd",
+       "website":"https://www.codeforaomori.org/",
+       "projects_list_url":"",
+       "city":"\ufffdAomori Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforaomori/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"112",
+       "ParentID":"105",
+       "name":"Code for Shiogama\ufffd",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdMiyagi Prefecture Shiogama",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForShiogama",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"113",
+       "ParentID":"105",
+       "name":"Code for Sendai\ufffd",
+       "website":"http://code4sendai.org/",
+       "projects_list_url":"",
+       "city":"\ufffdSendai, Miyagi Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4sendai/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"114",
+       "ParentID":"105",
+       "name":"Code for Akita\ufffd",
+       "website":"https://code4akita.org/",
+       "projects_list_url":"",
+       "city":"\ufffdAkita, Akita Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"115",
+       "ParentID":"105",
+       "name":"Code for Aizu\ufffd",
+       "website":"http://aizu.io/",
+       "projects_list_url":"",
+       "city":"\ufffdFukushima Prefecture Aizu region",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforaizu/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"116",
+       "ParentID":"105",
+       "name":"Code for Shirakawa\ufffd",
+       "website":"http://shirakawa-fukko.jimdo.com/",
+       "projects_list_url":"",
+       "city":"\ufffdFukushima Prefecture Shirakawa",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforshirakawa/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"117",
+       "ParentID":"105",
+       "name":"????????????\ufffd",
+       "website":"https://codeforibaraki.org/",
+       "projects_list_url":"",
+       "city":"\ufffdIbaraki Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforibaraki/?__tn__=%2Cd%2CP-R&eid=ARBDHZp4hkQ6bAKY07h6rsxD5tCaVZDsoO2GEAfaPHV8KsvMpnW8QPzDlrRo9o0G4lVUxmcHQJFp5W04",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"118",
+       "ParentID":"105",
+       "name":"Code for Saitama\ufffd",
+       "website":"http://www.code4saitama.org/",
+       "projects_list_url":"",
+       "city":"\ufffdSaitama",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code4SAITAMA/",
+          "twitter":"https://twitter.com/Code4SAITAMA"
+       }
+    },
+    {
+       "ID":"119",
+       "ParentID":"105",
+       "name":"Code for Kumagaya\ufffd",
+       "website":"http://code4kumagaya.org/",
+       "projects_list_url":"",
+       "city":"\ufffdKumagaya, Saitama Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code4Kumagaya/",
+          "twitter":"https://twitter.com/Code4Kumagaya"
+       }
+    },
+    {
+       "ID":"120",
+       "ParentID":"105",
+       "name":"Code for TODA\ufffd",
+       "website":"https://codefortoda.org/",
+       "projects_list_url":"https://github.com/codefortoda",
+       "city":"\ufffdToda City, Saitama Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefortoda/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"121",
+       "ParentID":"105",
+       "name":"Code for WAKO\ufffd",
+       "website":"https://www.wakokyodo.net/chiikikoeki/",
+       "projects_list_url":"",
+       "city":"\ufffdWako, Saitama",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"122",
+       "ParentID":"105",
+       "name":"Code for Ichikawa\ufffd",
+       "website":"http://codeforichikawa.org/",
+       "projects_list_url":"https://github.com/codeforichikawa",
+       "city":"\ufffdIchikawa, Chiba Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/groups/CodeforIchikawa/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"123",
+       "ParentID":"105",
+       "name":"Code for Chiba\ufffd",
+       "website":"http://www.code4chiba.org/",
+       "projects_list_url":"https://github.com/codeforchiba",
+       "city":"\ufffdChiba City, Chiba Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforchiba/",
+          "twitter":"https://twitter.com/code4chiba"
+       }
+    },
+    {
+       "ID":"124",
+       "ParentID":"105",
+       "name":"Code for NAGAREYAMA\ufffd",
+       "website":"http://www.code-for-nagareyama.org/",
+       "projects_list_url":"",
+       "city":"\ufffdChiba Prefecture Nagareyama",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefornagareyama/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"125",
+       "ParentID":"105",
+       "name":"Code for Funabashi\ufffd",
+       "website":"http://code4funabashi.org/",
+       "projects_list_url":"",
+       "city":"\ufffdFunabashi, Chiba Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"126",
+       "ParentID":"105",
+       "name":"Code for Matsudo\ufffd",
+       "website":"https://code4matsudo.org/",
+       "projects_list_url":"",
+       "city":"\ufffdMatsudo, Chiba Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4matsudo/",
+          "twitter":"https://twitter.com/Codeformatsudo"
+       }
+    },
+    {
+       "ID":"127",
+       "ParentID":"105",
+       "name":"Code for Shinagawa\ufffd",
+       "website":"https://code4shinagawa.org/",
+       "projects_list_url":"",
+       "city":"\ufffdShinagawa-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"128",
+       "ParentID":"105",
+       "name":"Code for Suginami",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdSuginami-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforSuginami/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"129",
+       "ParentID":"105",
+       "name":"Code for Setagaya",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforsetagaya/",
+       "city":"\ufffdSetagaya-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforsetagaya/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"130",
+       "ParentID":"105",
+       "name":"Code for Chuo\ufffd",
+       "website":"http://c4chuo.strikingly.com/",
+       "projects_list_url":"",
+       "city":"\ufffdChuo-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"131",
+       "ParentID":"105",
+       "name":"Code for Toshima\ufffd",
+       "website":"https://code4toshima.org/",
+       "projects_list_url":"https://github.com/codefortoshima",
+       "city":"\ufffdToshima-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4toshima/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"132",
+       "ParentID":"105",
+       "name":"Code for ??",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdNakano-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4nakano/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"133",
+       "ParentID":"105",
+       "name":"Code for Nerima\ufffd",
+       "website":"http://code4nerima.org/",
+       "projects_list_url":"https://github.com/code4nerima",
+       "city":"\ufffdNerima-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4nerima/?__tn__=%2Cd%2CP-R&eid=ARDtj-TxMt0GVk7lXEpmyKGomC4J_tqYZmLY5JsMwljV_gBTg1hJNibcbC73ZOfO-XCwcm4dZF52LgYE",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"134",
+       "ParentID":"105",
+       "name":"Code for INAGI",
+       "website":"http://www.c4inagi.org/",
+       "projects_list_url":"",
+       "city":"\ufffdTokyo Inagi",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4inagi/",
+          "twitter":"https://twitter.com/Code4Inagi"
+       }
+    },
+    {
+       "ID":"135",
+       "ParentID":"105",
+       "name":"Code for Tachikawa",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdTokyo Tachikawa",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"136",
+       "ParentID":"105",
+       "name":"Code for Chofu",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForChofu",
+       "city":"\ufffdChofu, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforchofu/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"137",
+       "ParentID":"105",
+       "name":"Code for Fuchu\ufffd",
+       "website":"https://code4fuchu.jimdofree.com/",
+       "projects_list_url":"",
+       "city":"\ufffdFuchu, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforfuchu/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"138",
+       "ParentID":"105",
+       "name":"Code for Hachioji\ufffd",
+       "website":"http://code4hachioji.org/",
+       "projects_list_url":"https://github.com/code48",
+       "city":"\ufffdHachioji, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4hachioji/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"139",
+       "ParentID":"105",
+       "name":"Code for Kanagawa\ufffd",
+       "website":"http://codeforkanagawa.org/",
+       "projects_list_url":"",
+       "city":"\ufffdKanagawa Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/groups/CodeForKanagawa/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"140",
+       "ParentID":"105",
+       "name":"Code for Kawasaki\ufffd(??????)\ufffd\ufffd",
+       "website":"http://openkawasaki.org/",
+       "projects_list_url":"https://github.com/openkawasaki/",
+       "city":"\ufffdKawasaki City, Kanagawa Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/openkawasaki/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"141",
+       "ParentID":"105",
+       "name":"Code for Yokosuka\ufffd",
+       "website":"https://codeforyokosuka.org/",
+       "projects_list_url":"https://github.com/CodeforYokosuka",
+       "city":"\ufffdYokosuka, Kanagawa Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforyokosuka/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"142",
+       "ParentID":"105",
+       "name":"Code for YOKOHAMA\ufffd",
+       "website":"https://code4.yokohama/",
+       "projects_list_url":"",
+       "city":"\ufffdYokohama-city kanagawa prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4yokohama/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"143",
+       "ParentID":"105",
+       "name":"Code for Niigata\ufffd",
+       "website":"http://www.codeforniigata.org/",
+       "projects_list_url":"https://github.com/CodeForNiigata/",
+       "city":"\ufffdNiigata, Niigata Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4niigata/",
+          "twitter":"https://twitter.com/code4niigata"
+       }
+    },
+    {
+       "ID":"144",
+       "ParentID":"105",
+       "name":"????????\ufffd",
+       "website":"http://code4takaoka.org/",
+       "projects_list_url":"",
+       "city":"\ufffdTakaoka, Toyama Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4takaoka/?__tn__=%2Cd%2CP-R&eid=ARBjLtaXhJdD9gnURLj1zkr_OwWZ1eri2aAkndCz38yrtqBGB2g8j5zcgsjsghzb3df225Fe1nzyHQaz",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"145",
+       "ParentID":"105",
+       "name":"??????????????\ufffd",
+       "website":"https://codefortoyama.jimdo.com/",
+       "projects_list_url":"",
+       "city":"\ufffdToyama, Toyama Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codefortoyama"
+       }
+    },
+    {
+       "ID":"146",
+       "ParentID":"105",
+       "name":"Code for Nanto\ufffd",
+       "website":"http://www.code4nanto.org/",
+       "projects_list_url":"",
+       "city":"\ufffdToyama Prefecture Nanto",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforNanto/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"147",
+       "ParentID":"105",
+       "name":"Code for Kanazawa\ufffd",
+       "website":"http://www.codeforkanazawa.org/",
+       "projects_list_url":"https://github.com/codeforkanazawa-org",
+       "city":"\ufffdIshikawa Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForKanazawa/",
+          "twitter":"https://twitter.com/CodeForKanazawa"
+       }
+    },
+    {
+       "ID":"148",
+       "ParentID":"105",
+       "name":"Code for Sabae\ufffd",
+       "website":"http://sabae.club/",
+       "projects_list_url":"https://github.com/code4sabae",
+       "city":"\ufffdFukui Prefecture Sabae",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code-for-Sabae-1973936642925979/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"149",
+       "ParentID":"105",
+       "name":"Code for Gifu",
+       "website":"",
+       "projects_list_url":"https://github.com/CODE-for-GIFU",
+       "city":"\ufffdGifu Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4gifu/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"150",
+       "ParentID":"105",
+       "name":"Code for ?????\ufffd",
+       "website":"https://www.code4numazu.org/",
+       "projects_list_url":"",
+       "city":"\ufffdNumazu, Shizuoka Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"151",
+       "ParentID":"105",
+       "name":"Code for Aichi\ufffd",
+       "website":"https://www.code4aichi.org/",
+       "projects_list_url":"https://github.com/code4aichi",
+       "city":"\ufffdAichi Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4aichi/?__tn__=%2Cd%2CP-R&eid=ARAVJiI3T4P7jvjepBMDY7zcI5mpn8YxACh0ddHW2Sq_hMPcXJjwXpliVOqq8jQkkCeMBX8ATTvyeqCY",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"152",
+       "ParentID":"105",
+       "name":"Code for Nagoya\ufffd",
+       "website":"https://www.code4.nagoya/",
+       "projects_list_url":"https://github.com/code4nagoya",
+       "city":"\ufffdAichi Prefecture, Nagoya City",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4nagoya/",
+          "twitter":"https://twitter.com/code4nagoya"
+       }
+    },
+    {
+       "ID":"153",
+       "ParentID":"105",
+       "name":"Code for MIKAWA\ufffd",
+       "website":"https://uzura.org/",
+       "projects_list_url":"",
+       "city":"\ufffdAichi Prefecture Mikawa region",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4mikawa.toyohashi.city.machi.omoi.meeting/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"154",
+       "ParentID":"105",
+       "name":"Code for Shiga / Biwako",
+       "website":"https://www.code4shiga.org/",
+       "projects_list_url":"",
+       "city":"\ufffdShiga Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforshiga/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"155",
+       "ParentID":"105",
+       "name":"Code for Kusatsu\ufffd",
+       "website":"https://codeforkusatsu.org/",
+       "projects_list_url":"",
+       "city":"\ufffdKusatsu City, Shiga Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforkusatsu/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"156",
+       "ParentID":"105",
+       "name":"Code for Osaka\ufffd",
+       "website":"http://code4.osaka/",
+       "projects_list_url":"https://github.com/open-osaka (not sure)",
+       "city":"\ufffdOsaka prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForOsaka/",
+          "twitter":"https://twitter.com/code4_osaka"
+       }
+    },
+    {
+       "ID":"157",
+       "ParentID":"105",
+       "name":"Code for Sakai",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdSakai, Osaka",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforsakai/",
+          "twitter":"https://twitter.com/codeforsakai"
+       }
+    },
+    {
+       "ID":"158",
+       "ParentID":"105",
+       "name":"Code for Hyogo\ufffd",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdHyogo Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/OpenDataLabHyogo/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"159",
+       "ParentID":"105",
+       "name":"Code for Amagasaki\ufffd",
+       "website":"https://c4ama.wordpress.com/",
+       "projects_list_url":"https://github.com/codeforamagasaki",
+       "city":"\ufffdAmagasaki, Hyogo Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/C4AMA/",
+          "twitter":"https://twitter.com/C4AMA"
+       }
+    },
+    {
+       "ID":"160",
+       "ParentID":"105",
+       "name":"Code for Kobe",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforkobe",
+       "city":"\ufffdNear Kobe, Hyogo Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforkobe/",
+          "twitter":"https://twitter.com/codeforkobe"
+       }
+    },
+    {
+       "ID":"161",
+       "ParentID":"105",
+       "name":"Code for Sasayama + Tamba",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdHyogo Prefecture Sasayama, Hyogo Prefecture Tamba",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/pg/cfsasayamaplustamba/photos/?ref=page_internal",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"162",
+       "ParentID":"105",
+       "name":"Code for Harima",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdHyogo Prefecture Harima region (Kakogawa, Takasago, Himeji City)",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforharima/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"163",
+       "ParentID":"105",
+       "name":"Code for Nara\ufffd",
+       "website":"http://www.code4nara.org/",
+       "projects_list_url":"https://github.com/code4nara/",
+       "city":"\ufffdNara Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code4Nara/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"164",
+       "ParentID":"105",
+       "name":"Code for Ikoma\ufffd",
+       "website":"https://www.code4ikoma.org/",
+       "projects_list_url":"https://github.com/code4ikoma/",
+       "city":"\ufffdNara Prefecture Ikoma",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4ikoma/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"165",
+       "ParentID":"105",
+       "name":"CODE for YAMATOKORIYAMA\ufffd",
+       "website":"http://code4yamatokoriyama.site/",
+       "projects_list_url":"",
+       "city":"\ufffdNara Prefecture Yamatokoriyama",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4ytk/",
+          "twitter":"https://twitter.com/code4ytk"
+       }
+    },
+    {
+       "ID":"166",
+       "ParentID":"105",
+       "name":"????????",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdShimane Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"167",
+       "ParentID":"105",
+       "name":"Code for Kurashiki\ufffd",
+       "website":"http://code4kurashiki.org/",
+       "projects_list_url":"",
+       "city":"\ufffdKurashiki, Okayama Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4kurashiki/",
+          "twitter":"https://twitter.com/Code4Kurashiki"
+       }
+    },
+    {
+       "ID":"168",
+       "ParentID":"105",
+       "name":"Code for Hiroshima\ufffd",
+       "website":"https://www.code4hiroshima.org/",
+       "projects_list_url":"https://github.com/code4hiroshima",
+       "city":"\ufffdHiroshima, Hiroshima Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForHiroshima/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"169",
+       "ParentID":"105",
+       "name":"Code for Fukuyama",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdFukuyama, Hiroshima Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"170",
+       "ParentID":"105",
+       "name":"Code for Ube\ufffd",
+       "website":"http://codeforube.thetechshare.org/",
+       "projects_list_url":"",
+       "city":"\ufffdUbe City, Yamaguchi Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforube/",
+          "twitter":"https://twitter.com/CodeForUbe"
+       }
+    },
+    {
+       "ID":"171",
+       "ParentID":"105",
+       "name":"Code for Tokushima",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdTokushima",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefortokushima/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"172",
+       "ParentID":"105",
+       "name":"Code for DOGO",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdEhime Prefecture sphere in Dogo plain center",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/cfdogo/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"173",
+       "ParentID":"105",
+       "name":"Code for Fukuoka\ufffd",
+       "website":"http://www.codeforfukuoka.org/",
+       "projects_list_url":"",
+       "city":"\ufffdFukuoka Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4fukuoka/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"174",
+       "ParentID":"105",
+       "name":"Code for Kitakyushu\ufffd",
+       "website":"http://www.code4kitakyushu.org/index.html",
+       "projects_list_url":"",
+       "city":"\ufffdKitakyushu, Fukuoka Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CfKTQ/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"175",
+       "ParentID":"105",
+       "name":"Code for KURUME\ufffd",
+       "website":"http://code4kurume.org/",
+       "projects_list_url":"",
+       "city":"\ufffdFukuoka Prefecture Kurume",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforkurume/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"176",
+       "ParentID":"105",
+       "name":"Code for Saga\ufffd",
+       "website":"https://code4saga.org/",
+       "projects_list_url":"",
+       "city":"\ufffdSaga Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4saga/?__tn__=%2Cd%2CP-R&eid=ARBzEhaqAYqP6Q_QkeSRBcVE6BMLO176F12dPJIX_oMk8YdYvcTLwG_clv0sH-61DHDDNMiO6RJ0Isey",
+          "twitter":"https://twitter.com/code4saga"
+       }
+    },
+    {
+       "ID":"177",
+       "ParentID":"105",
+       "name":"Code for Beppu",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdBeppu, Oita Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/code4beppu"
+       }
+    },
+    {
+       "ID":"178",
+       "ParentID":"105",
+       "name":"Code for MIYAZAKI",
+       "website":"",
+       "projects_list_url":"",
+       "city":"\ufffdMiyazaki Prefecture (mainly Miyazaki)",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeformiyazaki"
+       }
+    },
+    {
+       "ID":"179",
+       "ParentID":"105",
+       "name":"Code for Okinawa\ufffd",
+       "website":"http://code4okinawa.org/",
+       "projects_list_url":"https://github.com/CodeforOkinawa",
+       "city":"\ufffdOkinawa Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4okinawa/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"180",
+       "ParentID":"105",
+       "name":"Code for Adachi\ufffd",
+       "website":"https://code4adachi.org/",
+       "projects_list_url":"",
+       "city":"\ufffdAdachi-ku, Tokyo",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4adachi/",
+          "twitter":"https://twitter.com/code4adachi"
+       }
+    },
+    {
+       "ID":"181",
+       "ParentID":"105",
+       "name":"Code for Gumyoji\ufffd",
+       "website":"https://gumyoji.yokohama/ict/",
+       "projects_list_url":"",
+       "city":"\ufffdYokohama City, Kanagawa Prefecture Minami-ku, Gumyoji",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"182",
+       "ParentID":"105",
+       "name":"Code for Yamanashi\ufffd",
+       "website":"https://code4yamanashi.jimdosite.com/",
+       "projects_list_url":"",
+       "city":"\ufffdYamanashi Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4yamanashi/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"183",
+       "ParentID":"105",
+       "name":"Code for Toyota\ufffd",
+       "website":"https://codefortoyota.localinfo.jp/",
+       "projects_list_url":"",
+       "city":"\ufffdToyota City, Aichi Prefecture",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforToyota/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"184",
+       "ParentID":"105",
+       "name":"Code for SUSONO\ufffd",
+       "website":"https://code4susono.jpn.org/",
+       "projects_list_url":"",
+       "city":"\ufffdShizuoka Prefecture Susono",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforsusono/",
+          "twitter":"https://twitter.com/code4susono"
+       }
+    },
+    {
+       "ID":"185",
+       "ParentID":"105",
+       "name":"Code for ??\ufffd",
+       "website":"http://election.code4japan.org/",
+       "projects_list_url":"https://github.com/codeforjapan/codeforelection",
+       "city":"\ufffdCreating open data of election candidates",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"186",
+       "ParentID":"105",
+       "name":"Code for Youth\ufffd",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforyouth",
+       "city":"\ufffdSociety that young people and the region to grow together",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforyouth/",
+          "twitter":"https://twitter.com/CodeforYouth"
+       }
+    },
+    {
+       "ID":"187",
+       "ParentID":"105",
+       "name":"Code for Cat\ufffd",
+       "website":"https://code4cat.org/",
+       "projects_list_url":"",
+       "city":"\ufffdSupport of local cat protection organization",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CODEforCAT/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"188",
+       "ParentID":"2",
+       "name":"Code for Africa",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForAfrica",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForAfrica/",
+          "twitter":"https://twitter.com/Code4Africa"
+       }
+    },
+    {
+       "ID":"189",
+       "ParentID":"188",
+       "name":"Code for Cameroon",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForAfrica",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Code4Cameroon/",
+          "twitter":"https://twitter.com/CfCameroon"
+       }
+    },
+    {
+       "ID":"190",
+       "ParentID":"188",
+       "name":"Code for Ghana",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForAfrica",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForGhana/",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"191",
+       "ParentID":"188",
+       "name":"Code for Kenya",
+       "website":"https://codeforkenya.org/",
+       "projects_list_url":"https://github.com/topics/code-for-kenya",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForKenya"
+       }
+    },
+    {
+       "ID":"192",
+       "ParentID":"188",
+       "name":"Code for Morocco",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForAfrica/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeforMorocco"
+       }
+    },
+    {
+       "ID":"193",
+       "ParentID":"188",
+       "name":"Code for Nigeria",
+       "website":"https://codefornigeria.org/",
+       "projects_list_url":"https://github.com/CodeForAfrica",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codefornigeria/",
+          "twitter":"https://twitter.com/CodeForNigeria_"
+       }
+    },
+    {
+       "ID":"194",
+       "ParentID":"188",
+       "name":"Code for Uganda",
+       "website":"https://codeforuganda.org/",
+       "projects_list_url":"https://github.com/topics/uganda",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"195",
+       "ParentID":"188",
+       "name":"Code for Sierra Leone",
+       "website":"https://codeforsierraleone.org/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"196",
+       "ParentID":"",
+       "name":"Code for Salone",
+       "website":"http://code4salone.sl/",
+       "projects_list_url":"https://github.com/Code4Salone",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"197",
+       "ParentID":"188",
+       "name":"Code for Tanzania",
+       "website":"https://codefortanzania.org/",
+       "projects_list_url":"https://github.com/CodeForAfrica",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"198",
+       "ParentID":"2",
+       "name":"Code for Australia",
+       "website":"https://codeforaustralia.org/",
+       "projects_list_url":"https://github.com/codeforaustralia",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforAustralia/",
+          "twitter":"https://twitter.com/CodeforAus"
+       }
+    },
+    {
+       "ID":"199",
+       "ParentID":"2",
+       "name":"Code for Germany",
+       "website":"https://codefor.de/",
+       "projects_list_url":"https://github.com/codeforgermany",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforde/",
+          "twitter":"https://twitter.com/codeforde"
+       }
+    },
+    {
+       "ID":"200",
+       "ParentID":"198",
+       "name":"OK Lab Berlin",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforberlin",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Berlin/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforbe"
+       }
+    },
+    {
+       "ID":"201",
+       "ParentID":"198",
+       "name":"OK Lab Bielefeld",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/Code-For-Bielefeld/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforbi"
+       }
+    },
+    {
+       "ID":"202",
+       "ParentID":"198",
+       "name":"OK Lab Bonn-Rhein-Sieg",
+       "website":"https://codeforbonnrheinsieg.de/",
+       "projects_list_url":"https://github.com/OKLabBonn",
+       "city":"",
+       "events_url":"https://www.meetup.com/OKLab-Bonn/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"203",
+       "ParentID":"198",
+       "name":"OK Lab Chemnitz",
+       "website":"http://codeforchemnitz.de/",
+       "projects_list_url":"https://github.com/CodeforChemnitz",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"204",
+       "ParentID":"198",
+       "name":"OK Lab Dresden",
+       "website":"http://offenesdresden.de/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"205",
+       "ParentID":"198",
+       "name":"OK Lab D\ufffdsseldorf",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/de-DE/OK-Lab-Dusseldorf/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codefordus"
+       }
+    },
+    {
+       "ID":"206",
+       "ParentID":"198",
+       "name":"OK Lab Gie\ufffden",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeForGiessen",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Gie%C3%9Fen/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforgi"
+       }
+    },
+    {
+       "ID":"207",
+       "ParentID":"198",
+       "name":"OK Lab Frankfurt",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/OKLabFfm/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"208",
+       "ParentID":"198",
+       "name":"OK Lab Hamburg",
+       "website":"https://codeforhamburg.org/#/",
+       "projects_list_url":"https://github.com/codeforhamburg/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"209",
+       "ParentID":"198",
+       "name":"OK Lab Hannover",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/de-DE/OK-Lab-Hannovera/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforhannover"
+       }
+    },
+    {
+       "ID":"210",
+       "ParentID":"198",
+       "name":"OK Lab Heidelberg",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Heidelberg/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"211",
+       "ParentID":"198",
+       "name":"OK Lab Heilbronn",
+       "website":"https://codeforheilbronn.de/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"212",
+       "ParentID":"198",
+       "name":"OK Lab Jena",
+       "website":"https://www.offenes-jena.de/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/OffenesJena/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"213",
+       "ParentID":"198",
+       "name":"OK Lab Karlsruhe",
+       "website":"https://ok-lab-karlsruhe.de/",
+       "projects_list_url":"https://github.com/CodeforKarlsruhe",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"214",
+       "ParentID":"198",
+       "name":"OK Lab K\ufffdln",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/OKLab-Koln-Meetup/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforcologne"
+       }
+    },
+    {
+       "ID":"215",
+       "ParentID":"198",
+       "name":"OK Lab Leipzig",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeforLeipzig",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Leipzig/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforleipzig"
+       }
+    },
+    {
+       "ID":"216",
+       "ParentID":"198",
+       "name":"OK Lab Magdeburg",
+       "website":"",
+       "projects_list_url":"https://github.com/code-for-magdeburg",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Magdeburg/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForMD"
+       }
+    },
+    {
+       "ID":"217",
+       "ParentID":"198",
+       "name":"OK Lab Mecklenburg-Vorpommern",
+       "website":"https://listi.jpberlin.de/mailman/listinfo/codeformv",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"218",
+       "ParentID":"198",
+       "name":"OK Lab M\ufffdnchen",
+       "website":"",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/code-for-muenchen/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"219",
+       "ParentID":"198",
+       "name":"OK Lab M\ufffdnster",
+       "website":"https://codeformuenster.org/",
+       "projects_list_url":"https://github.com/codeformuenster/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"220",
+       "ParentID":"198",
+       "name":"OK Lab Niederrhein",
+       "website":"",
+       "projects_list_url":"https://github.com/CodeforNiederrhein",
+       "city":"",
+       "events_url":"https://www.meetup.com/de-DE/OK-Lab-Niederrhein/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForNRN"
+       }
+    },
+    {
+       "ID":"221",
+       "ParentID":"198",
+       "name":"OK Lab Osnabrueck",
+       "website":"http://codeforosnabrueck.org/",
+       "projects_list_url":"https://github.com/codeforosnabrueck",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"222",
+       "ParentID":"198",
+       "name":"OK Lab Potsdam",
+       "website":"http://www.oklab-potsdam.de/",
+       "projects_list_url":"https://github.com/open-data-potsdam",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"223",
+       "ParentID":"198",
+       "name":"OK Lab Ruhrgebiet",
+       "website":"",
+       "projects_list_url":"https://github.com/codeforruhrgebiet",
+       "city":"",
+       "events_url":"https://www.meetup.com/de-DE/codeforruhrgebiet/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeforRuhr"
+       }
+    },
+    {
+       "ID":"224",
+       "ParentID":"198",
+       "name":"OK Lab Kreis Schleswig-Flensburg",
+       "website":"https://nucleon-ev.eu/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Schleswig-Flensburg/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"225",
+       "ParentID":"198",
+       "name":"OK Lab Stuttgart",
+       "website":"",
+       "projects_list_url":"https://github.com/opendata-stuttgart",
+       "city":"",
+       "events_url":"https://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"226",
+       "ParentID":"198",
+       "name":"OK Lab Ulm",
+       "website":"http://www.ulmapi.de/",
+       "projects_list_url":"https://github.com/ulmapi",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"227",
+       "ParentID":"198",
+       "name":"OK Lab Wuppertal",
+       "website":"https://opendatal.de/",
+       "projects_list_url":"https://github.com/Opendatal",
+       "city":"",
+       "events_url":"https://www.meetup.com/de-DE/OKLab-Wuppertal-Meetup/",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"228",
+       "ParentID":"2",
+       "name":"ePa?stwo Foundation",
+       "website":"https://epf.org.pl/en/",
+       "projects_list_url":"https://github.com/epforgpl",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/epanstwo",
+          "twitter":"https://twitter.com/epforgpl"
+       }
+    },
+    {
+       "ID":"229",
+       "ParentID":"2",
+       "name":"Code for Poland",
+       "website":"https://codeforpoland.org/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForPoland"
+       }
+    },
+    {
+       "ID":"230",
+       "ParentID":"2",
+       "name":"Code for Pakistan",
+       "website":"http://codeforpakistan.org/",
+       "projects_list_url":"https://github.com/codeforpakistan",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeforPK/",
+          "twitter":"https://twitter.com/CodeforPakistan"
+       }
+    },
+    {
+       "ID":"231",
+       "ParentID":"2",
+       "name":"Code for Romania",
+       "website":"https://code4.ro/ro/",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/code4romania/",
+          "twitter":"https://twitter.com/Code4Romania"
+       }
+    },
+    {
+       "ID":"232",
+       "ParentID":"229",
+       "name":"Code for Bacau",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"233",
+       "ParentID":"229",
+       "name":"Code for Brasov",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"234",
+       "ParentID":"229",
+       "name":"Code for Bucure?ti",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"235",
+       "ParentID":"229",
+       "name":"Code for Chisinau",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"236",
+       "ParentID":"229",
+       "name":"Code for Cluj-Napoca",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"237",
+       "ParentID":"229",
+       "name":"Code for Constanta",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"238",
+       "ParentID":"229",
+       "name":"Code for Craiova",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"239",
+       "ParentID":"229",
+       "name":"Code for Diaspora",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"240",
+       "ParentID":"229",
+       "name":"Code for Ia?i",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"241",
+       "ParentID":"229",
+       "name":"Code for Oradea",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"242",
+       "ParentID":"229",
+       "name":"Code for RmValcea",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"243",
+       "ParentID":"229",
+       "name":"Code for Sibiu",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"244",
+       "ParentID":"229",
+       "name":"Code for Suceava",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"245",
+       "ParentID":"229",
+       "name":"Code for Timisoara",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"246",
+       "ParentID":"229",
+       "name":"Code for TgMures",
+       "website":"",
+       "projects_list_url":"https://github.com/code4romania",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"247",
+       "ParentID":"2",
+       "name":"OpenUp",
+       "website":"https://openup.org.za/",
+       "projects_list_url":"https://github.com/OpenUpSA",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/OpenUpSA"
+       }
+    },
+    {
+       "ID":"248",
+       "ParentID":"2",
+       "name":"SlashRoots Foundation",
+       "website":"https://www.slashroots.org/",
+       "projects_list_url":"https://github.com/slashroots",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/slashroots/",
+          "twitter":"https://twitter.com/Slash_roots"
+       }
+    },
+    {
+       "ID":"249",
+       "ParentID":"2",
+       "name":"Code for NL",
+       "website":"https://www.codefor.nl/",
+       "projects_list_url":"https://github.com/codefornl",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForNL"
+       }
+    },
+    {
+       "ID":"250",
+       "ParentID":"2",
+       "name":"Codeando M\ufffdxico",
+       "website":"http://codeandomexico.org/",
+       "projects_list_url":"https://github.com/CodeandoMexico",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeandoMexico/",
+          "twitter":"https://twitter.com/CodeandoMexico"
+       }
+    },
+    {
+       "ID":"251",
+       "ParentID":"2",
+       "name":"g0v.tw",
+       "website":"https://g0v.tw/en-US/",
+       "projects_list_url":"https://github.com/g0v/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/g0v.tw/",
+          "twitter":"https://twitter.com/g0vtw"
+       }
+    },
+    {
+       "ID":"252",
+       "ParentID":"2",
+       "name":"Code for France",
+       "website":"https://codefor.fr/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":"https://twitter.com/CodeForFR"
+       }
+    },
+    {
+       "ID":"253",
+       "ParentID":"250",
+       "name":"Open Heroines France",
+       "website":"https://openheroines.org/",
+       "projects_list_url":"",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"254",
+       "ParentID":"2",
+       "name":"Ciudadan\ufffda Inteligente",
+       "website":"https://ciudadaniai.org/",
+       "projects_list_url":"https://github.com/ciudadanointeligente/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/ciudadaniai/",
+          "twitter":"https://twitter.com/ciudadania_i"
+       }
+    },
+    {
+       "ID":"255",
+       "ParentID":"2",
+       "name":"mySociety",
+       "website":"https://www.mysociety.org/",
+       "projects_list_url":"https://github.com/mysociety",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/mySociety/?ref=br_rs",
+          "twitter":"https://twitter.com/mySociety"
+       }
+    },
+    {
+       "ID":"256",
+       "ParentID":"2",
+       "name":"Civic Tech Sweden",
+       "website":"https://civictech.se/en/",
+       "projects_list_url":"https://github.com/civictechsweden",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CivicTechSweden/",
+          "twitter":"https://twitter.com/CivicTechSE"
+       }
+    },
+    {
+       "ID":"257",
+       "ParentID":"256",
+       "name":"Civictech Goteborg",
+       "website":"https://civictech.se/en/goteborg/",
+       "projects_list_url":"https://github.com/civictechsweden",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"258",
+       "ParentID":"256",
+       "name":"Civictech Stockholm",
+       "website":"https://civictech.se/en/stockholm/",
+       "projects_list_url":"https://github.com/civictechsweden",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"259",
+       "ParentID":"256",
+       "name":"Civictech Uppsala",
+       "website":"https://civictech.se/en/uppsala/",
+       "projects_list_url":"https://github.com/civictechsweden",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"",
+          "twitter":""
+       }
+    },
+    {
+       "ID":"260",
+       "ParentID":"2",
+       "name":"Open Data Kosovo",
+       "website":"https://opendatakosovo.org/",
+       "projects_list_url":"https://github.com/opendatakosovo",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/opendatakosovo/",
+          "twitter":"https://twitter.com/OpenDataKosovo"
+       }
+    },
+    {
+       "ID":"261",
+       "ParentID":"2",
+       "name":"Sinar Project",
+       "website":"https://sinarproject.org/",
+       "projects_list_url":"https://github.com/Sinar",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/sinarproject/",
+          "twitter":"https://twitter.com/sinarproject"
+       }
+    },
+    {
+       "ID":"262",
+       "ParentID":"2",
+       "name":"Waag",
+       "website":"https://waag.org/en",
+       "projects_list_url":"https://github.com/waagsociety",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/waagsociety/",
+          "twitter":"https://twitter.com/Waag"
+       }
+    },
+    {
+       "ID":"263",
+       "ParentID":"2",
+       "name":"Open Knowledge Belgium",
+       "website":"https://be.okfn.org/",
+       "projects_list_url":"https://github.com/openknowledgebe",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/OpenKnowledgeBE/",
+          "twitter":"https://twitter.com/OpenKnowledgeBE"
+       }
+    },
+    {
+       "ID":"264",
+       "ParentID":"2",
+       "name":"Code for Moldova",
+       "website":"",
+       "projects_list_url":"https://github.com/code4moldova/",
+       "city":"",
+       "events_url":"",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeformoldova/",
+          "twitter":"https://twitter.com/Code4Moldova"
+       }
+    }
+ ]
