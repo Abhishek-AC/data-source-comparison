@@ -1,0 +1,14 @@
+{
+  "name": "comparejson",
+  "version": "1.0.0",
+  "description": "comparing two particular json's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Chhabra",
+  "license": "ISC",
+  "dependencies": {
+    "json-diff": "^0.5.4"
+  }
+}
