@@ -1,0 +1,1445 @@
+[
+    {
+       "name":"18F",
+       "website":"https://18f.gsa.gov/",
+       "events_url":"",
+       "rss":"https://18f.gsa.gov/feed.xml",
+       "projects_list_url":"https://github.com/18f",
+       "city":"San Francisco, CA",
+       "latitude":"37.7759",
+       "longitude":"-122.4137",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Akron Civic Hackathon",
+       "website":"http://akroncivichackathon.org",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/akroncivichackathon",
+       "city":"Akron, Ohio",
+       "latitude":"41.0761",
+       "longitude":"-81.5217",
+       "type":"midwest",
+       "tags":[
+          "midwest"
+       ]
+    },
+    {
+       "name":"Ann Arbor Civic Technology Meetup",
+       "website":"http://www.meetup.com/a2civictech/",
+       "events_url":"http://www.meetup.com/a2civictech/",
+       "rss":"http://a2civictech.tumblr.com",
+       "projects_list_url":"https://github.com/a2civictech",
+       "city":"Ann Arbor, MI",
+       "latitude":"42.2808",
+       "longitude":"-83.7430",
+       "type":"Brigade, midwest",
+       "tags":[
+          "Brigade",
+          "midwest"
+       ]
+    },
+    {
+       "name":"California Civic Lab",
+       "website":"http://caciviclab.org/",
+       "events_url":"https://calendar.google.com/calendar/embed?src=6uj6li3gabf05o0j81ukmr195s%40group.calendar.google.com&ctz=America%2FLos_Angeles",
+       "rss":"",
+       "projects_list_url":"https://github.com/caciviclab",
+       "city":"Oakland, CA",
+       "latitude":"37.166111",
+       "longitude":"-119.449444",
+       "type":"Brigade Collaboration",
+       "tags":[
+          "Brigade Collaboration"
+       ]
+    },
+    {
+       "name":"Chi Hack Night",
+       "website":"http://chihacknight.org/",
+       "events_url":"",
+       "rss":"http://chihacknight.org/blog/",
+       "projects_list_url":"https://raw.github.com/open-city/civic-json-files/master/projects.json",
+       "city":"Chicago, IL",
+       "latitude":"41.8781",
+       "longitude":"-87.6298",
+       "type":"Brigade, midwest",
+       "tags":[
+          "Brigade",
+          "midwest"
+       ]
+    },
+    {
+       "name":"City of Chicago Department of Innovation and Technology",
+       "website":"http://www.cityofchicago.org/city/en/depts/doit.html",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/chicago",
+       "city":"Chicago, IL",
+       "latitude":"41.8781",
+       "longitude":"-87.6298",
+       "type":"Government, midwest",
+       "tags":[
+          "Government",
+          "midwest"
+       ]
+    },
+    {
+       "name":"City of Helsinki",
+       "website":"http://dev.hel.fi/",
+       "events_url":"http://dev.hel.fi/events/",
+       "rss":"http://dev.hel.fi/blog/feed/",
+       "projects_list_url":"http://dev.hel.fi/projects/projects.csv",
+       "city":"Helsinki, Finland",
+       "latitude":"60.16799112034094",
+       "longitude":"24.948300559109786",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Code for Aizu",
+       "website":"http://aizu.io/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Aizuwakamatsu, Japan",
+       "latitude":"37.4896",
+       "longitude":"139.9300",
+       "type":"Brigade, Code for Japan",
+       "tags":[
+          "Brigade",
+          "Code for Japan"
+       ]
+    },
+    {
+       "name":"Code for Birmingham",
+       "website":"http://www.codeforbirmingham.org/",
+       "events_url":"http://www.meetup.com/Code-for-Birmingham-AL/",
+       "rss":"",
+       "projects_list_url":"https://github.com/CodeforBirmingham",
+       "city":"Birmingham, AL",
+       "latitude":"33.5207",
+       "longitude":"-86.8118",
+       "type":"Brigade",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/Codeforbirmingham"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Brazil",
+       "website":"http://openbrazil.org/",
+       "events_url":"http://www.meetup.com/openbrazil/",
+       "rss":"https://twitrss.me/twitter_user_to_rss/?user=openbrazil&replies=on",
+       "projects_list_url":"https://github.com/codeforbrazil",
+       "city":"Curitiba, PR",
+       "latitude":"-25.4952",
+       "longitude":"-49.2874",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Columbus (Ohio)",
+       "website":"http://site.opencolumbus.com/",
+       "city":"Columbus, OH",
+       "latitude":"39.9622601",
+       "longitude":"-83.0007065",
+       "events_url":"https://www.meetup.com/OpenColumbus/",
+       "previous_names":[
+          "Code for Columbus",
+          "OpenColumbus (Ohio)"
+       ],
+       "projects_list_url":"https://github.com/SCODEMeetup",
+       "tags":[
+          "Brigade",
+          "Code for America",
+          "Official"
+       ],
+       "social_profiles":{
+          "twitter":"@OpenColumbus",
+          "facebook":"https://www.facebook.com/opencolumbus/",
+          "linkedin":"https://www.linkedin.com/company/opencolumbus/"
+       },
+       "type":"Brigade, Code for America, Official"
+    },
+    {
+       "name":"Code for Kissimmee",
+       "website":"",
+       "city":"Kissimmee, FL",
+       "latitude":"28.2918995",
+       "longitude":"-81.4075838",
+       "events_url":"https://www.meetup.com/Code-for-Kissimmee/",
+       "projects_list_url":"",
+       "tags":[
+          "Brigade"
+       ],
+       "social_profiles":{
+ 
+       },
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/7566160790037972973",
+       "type":"Brigade"
+    },
+    {
+       "name":"Code for Croatia",
+       "website":"http://codeforcroatia.org",
+       "events_url":"https://www.google.com/calendar/ical/dveug5v4a2uq633mrnsehvm4u4%40group.calendar.google.com/public/basic.ics",
+       "rss":"http://codeforcroatia.org/project-updates?format=rss",
+       "projects_list_url":"https://github.com/codeforcroatia",
+       "city":"Zagreb, Croatia",
+       "latitude":"45.7930",
+       "longitude":"15.9464",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Curitiba",
+       "website":"http://codeforcuritiba.org",
+       "events_url":"http://www.meetup.com/openbrazil/",
+       "rss":"https://twitrss.me/twitter_user_to_rss/?user=openbrazil&replies=on",
+       "projects_list_url":"https://github.com/CodeForCuritiba",
+       "city":"Curitiba, PR",
+       "latitude":"-25.4952",
+       "longitude":"-49.2874",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Detroit",
+       "website":"https://www.facebook.com/CodeForDetroit",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Detroit, MI",
+       "latitude":"42.3314",
+       "longitude":"-83.0458",
+       "type":"Brigade, midwest, ",
+       "tags":[
+          "Brigade",
+          "midwest"
+       ]
+    },
+    {
+       "name":"Code for Eau Claire",
+       "website":"http://codeforeauclaire.org",
+       "events_url":"http://www.meetup.com/Code-For-Eau-Claire",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforeauclaire",
+       "city":"Eau Claire, WI",
+       "latitude":"44.8113",
+       "longitude":"-91.4985",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Europe",
+       "website":"http://codeforeurope.net/",
+       "events_url":"",
+       "rss":"http://codeforeurope.net/stories/",
+       "projects_list_url":"https://github.com/codeforeurope",
+       "city":"Europe",
+       "latitude":"50.8427",
+       "longitude":"4.3781",
+       "tags":[
+          "Fellowship"
+       ]
+    },
+    {
+       "name":"Code for Fukuoka",
+       "website":"http://code4fukuoka.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Fukuoka, Japan",
+       "latitude":"33.5840",
+       "longitude":"130.4129",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Gainesville",
+       "website":"http://c4gnv.com",
+       "events_url":"http://www.meetup.com/Code-for-Gainesville/",
+       "rss":"",
+       "projects_list_url":"https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
+       "city":"Gainesville, FL",
+       "latitude":"29.651634",
+       "longitude":"-82.324826",
+       "type":"Brigade",
+       "social_profiles":{
+          "twitter":"@c4gnv"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Homestead",
+       "website":"",
+       "city":"Homestead, FL",
+       "latitude":"25.4718946",
+       "longitude":"-80.4759905",
+       "events_url":"https://www.meetup.com/Code-for-Homestead/",
+       "projects_list_url":"",
+       "tags":[
+          "Brigade"
+       ],
+       "social_profiles":{
+ 
+       },
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/1444738145735585158",
+       "type":"Brigade"
+    },
+    {
+       "name":"Code for RGV (Rio Grande Valley)",
+       "website":"",
+       "city":"Brownsville, TX",
+       "latitude":"25.9140256",
+       "longitude":"-97.4890856",
+       "events_url":"",
+       "projects_list_url":"",
+       "tags":[
+          "Brigade"
+       ],
+       "social_profiles":{
+ 
+       },
+       "type":"Brigade"
+    },
+    {
+       "name":"Code the South",
+       "website":"http://www.code4huntsville.org",
+       "events_url":"http://www.facebook.com/groups/code4huntsville",
+       "rss":"",
+       "projects_list_url":"https://github.com/code4huntsville",
+       "city":"Huntsville, AL",
+       "latitude":"34.7014",
+       "longitude":"-86.6597",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Ibaraki",
+       "website":"http://codeforibaraki.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforibaraki",
+       "city":"Ibaraki, Japan",
+       "latitude":"36.3072",
+       "longitude":"140.3920",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Ikoma",
+       "website":"http://code4ikoma.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Ikoma, Japan",
+       "latitude":"34.6920",
+       "longitude":"135.7006",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Ireland",
+       "website":"http://codeforireland.com/",
+       "events_url":"http://codeforireland.com/events/",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforireland",
+       "city":"Ireland",
+       "latitude":"53.35124084081707",
+       "longitude":"-6.257201628137899",
+       "tags":[
+ 
+       ]
+    },
+    {
+       "name":"Code for Kanagawa",
+       "website":"https://www.facebook.com/CodeForKanagawa",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Yokohama, Japan",
+       "latitude":"35.4662",
+       "longitude":"139.6227",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Kanazawa",
+       "website":"http://www.codeforkanazawa.org/",
+       "events_url":"https://www.facebook.com/CodeForKanazawa",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforkanazawa-org",
+       "city":"Kanazawa, Japan",
+       "latitude":"36.5750",
+       "longitude":"136.6469",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Kaohsiung",
+       "website":"https://www.facebook.com/groups/codeforkaohsiung/",
+       "events_url":"https://www.facebook.com/groups/codeforkaohsiung/",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Kaohsiung, Taiwan",
+       "latitude":"22.9737",
+       "longitude":"120.6124",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Kashiwa",
+       "website":"https://www.facebook.com/code4kashiwa",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Kashiwa, Japan",
+       "latitude":"35.8614",
+       "longitude":"139.9801",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Kawasaki",
+       "website":"http://openkawasaki.org/",
+       "events_url":"http://www.meetup.com/open_kawasaki",
+       "rss":"",
+       "projects_list_url":"https://github.com/openkawasaki",
+       "city":"Kawasaki, Japan",
+       "latitude":"35.5309",
+       "longitude":"139.7030",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Tricity",
+       "website":"https://codeforpoland.org/cities/trojmiasto/",
+       "events_url":"http://www.meetup.com/Koduj-dla-Polski-Trojmiasto/",
+       "rss":"https://codeforpoland.org/category/tricity/",
+       "projects_list_url":"https://codeforpoland.org/cities/trojmiasto/?csv=show",
+       "city":"Gdansk, Poland",
+       "latitude":"54.4046788",
+       "longitude":"18.5738181",
+       "tags":[
+          "Brigade",
+          "Code for Poland"
+       ]
+    },
+    {
+       "name":"Code for Warsaw",
+       "website":"https://codeforpoland.org/cities/warszawa/",
+       "events_url":"http://www.meetup.com/Koduj-dla-Polski-Warszawa/",
+       "rss":"https://codeforpoland.org/category/warsaw/",
+       "projects_list_url":"https://codeforpoland.org/cities/warszawa/?csv=show",
+       "city":"Warsaw, Poland",
+       "latitude":"52.2287",
+       "longitude":"21.0063",
+       "tags":[
+          "Brigade",
+          "Code for Poland"
+       ]
+    },
+    {
+       "name":"Code for Wroclaw",
+       "website":"https://codeforpoland.org/cities/wroclaw/",
+       "events_url":"http://www.meetup.com/Koduj-dla-Polski-Wroc%C5%82aw/",
+       "rss":"https://codeforpoland.org/category/wroclaw-en/",
+       "projects_list_url":"https://codeforpoland.org/cities/wroclaw/?csv=show",
+       "city":"Wroclaw, Poland",
+       "latitude":"51.1063798",
+       "longitude":"17.0121528",
+       "type":"Brigade, Code for Poland",
+       "tags":[
+          "Brigade",
+          "Code for Poland"
+       ]
+    },
+    {
+       "name":"Code for Silesia",
+       "website":"https://codeforpoland.org/cities/gop-katowice/",
+       "events_url":"http://www.meetup.com/Koduj-dla-Polski-Silesia/",
+       "rss":"https://codeforpoland.org/category/katowice-en/",
+       "projects_list_url":"https://codeforpoland.org/cities/gop-katowice/?csv=show",
+       "city":"Katowice, Poland",
+       "latitude":"50.2638531",
+       "longitude":"18.9935899",
+       "type":"Brigade, Code for Poland",
+       "tags":[
+          "Brigade",
+          "Code for Poland"
+       ]
+    },
+    {
+       "name":"Code for Nagareyama",
+       "website":"https://www.facebook.com/pages/Code-for-NAGAREYAMA/445633632232347",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Nagareyama, Japan",
+       "latitude":"35.8586",
+       "longitude":"139.9116",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Nanto",
+       "website":"http://www.7104.info/codefor/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Nanto, Japan",
+       "latitude":"36.5905",
+       "longitude":"136.9289",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for NoVA",
+       "website":"http://www.meetup.com/Code-for-NoVA/",
+       "events_url":"http://www.meetup.com/Code-for-NoVA/",
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/15266640778775469492",
+       "projects_list_url":"https://github.com/sarl-hackerspace",
+       "city":"Arlington, VA",
+       "latitude":"38.8800",
+       "longitude":"-77.1068",
+       "type":"Brigade",
+       "social_profiles":{
+          "twitter":"@codenovabrigade"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Okinawa",
+       "website":"http://code4okinawa.org/",
+       "events_url":"",
+       "rss":"http://code4okinawa.org/feed",
+       "projects_list_url":"https://github.com/codeforokinawa",
+       "city":"Okinawa, Japan",
+       "latitude":"26.2124",
+       "longitude":"127.6809",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Ponta Grossa",
+       "website":"https://www.facebook.com/Code-For-Ponta-Grossa-1663271337246663/",
+       "events_url":"http://www.meetup.com/openbrazil/",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforpg",
+       "city":"Ponta Grossa, PR",
+       "latitude":"-25.1294",
+       "longitude":"-50.2040",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Romania: Cluj Chapter",
+       "website":"http://code4.ro/",
+       "events_url":"https://www.meetup.com/Code-for-Romania/",
+       "rss":"",
+       "projects_list_url":"https://github.com/code4romania/",
+       "city":"Cluj-Napoca, Romania",
+       "latitude":"46.770439",
+       "longitude":"23.591423",
+       "tags":[
+          "Brigade",
+          "Code for Romania"
+       ]
+    },
+    {
+       "name":"Code for Romania: Iasi Chapter",
+       "website":"http://code4.ro/",
+       "events_url":"https://www.meetup.com/Code-for-Romania/",
+       "rss":"",
+       "projects_list_url":"https://github.com/code4romania/",
+       "city":"Iasi, Romania",
+       "latitude":"47.151726",
+       "longitude":"27.587914",
+       "tags":[
+          "Brigade",
+          "Code for Romania"
+       ]
+    },
+    {
+       "name":"Code for Rockford",
+       "website":"http://www.codeforrockford.com/",
+       "events_url":"http://www.meetup.com/Code-for-Rockford",
+       "rss":"http://www.codeforrockford.com/category/news/",
+       "projects_list_url":"https://github.com/CodeForRockford",
+       "city":"Rockford, IL",
+       "latitude":"42.2669",
+       "longitude":"-89.0783",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for RVA",
+       "website":"http://codeforrva.org",
+       "events_url":"http://www.meetup.com/804RVA/",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforrva",
+       "city":"Richmond, VA",
+       "latitude":"37.5407",
+       "longitude":"-77.4336",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Saga",
+       "website":"http://code4saga.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Saga, Japan",
+       "latitude":"33.2487",
+       "longitude":"130.3010",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Saitama",
+       "website":"https://www.facebook.com/groups/186097664924714/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Saitama, Japan",
+       "latitude":"35.9985",
+       "longitude":"139.3496",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Sapporo",
+       "website":"http://www.codeforsapporo.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforsapporo",
+       "city":"Sapporo, Japan",
+       "latitude":"43.0553",
+       "longitude":"141.3455",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Shiogama",
+       "website":"https://www.facebook.com/CodeForShiogama",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Shiogama, Japan",
+       "latitude":"38.3014",
+       "longitude":"141.0273",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Summit County",
+       "website":"http://codeforsummitcounty.org/",
+       "events_url":"http://www.meetup.com/Code-for-Summit-County/",
+       "rss":"",
+       "projects_list_url":"https://github.com/CodeForSummitCounty",
+       "city":"Akron, OH",
+       "latitude":"41.0814",
+       "longitude":"-81.5190",
+       "type":"Brigade, midwest",
+       "tags":[
+          "Brigade",
+          "midwest"
+       ]
+    },
+    {
+       "name":"Code for Tomorrow",
+       "website":"http://codefortomorrow.org/",
+       "events_url":"http://codefortomorrow.org/events",
+       "rss":"http://codefortomorrow.org/blog/",
+       "projects_list_url":"https://github.com/codefortomorrow",
+       "city":"Taiwan",
+       "latitude":"23.5531",
+       "longitude":"121.0211",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Tuscaloosa",
+       "website":"http://codefortuscaloosa.org/",
+       "events_url":"",
+       "rss":"http://codefortuscaloosa.org/blog/",
+       "projects_list_url":"https://github.com/CodeforTuscaloosa",
+       "city":"Tuscaloosa, AL",
+       "latitude":"33.2105",
+       "longitude":"-87.5659",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Vancouver",
+       "website":"http://community.codeforcanada.org/",
+       "events_url":"http://www.meetup.com/Code-for-Canada-Vancouver",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforcanada",
+       "city":"Vancouver, BC",
+       "latitude":"49.2811",
+       "longitude":"-123.0440",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code4PuertoRico",
+       "website":"http://code4puertorico.org/",
+       "events_url":"http://code4puertorico.org/events.html",
+       "rss":"",
+       "projects_list_url":"https://github.com/Code4PuertoRico",
+       "city":"San Juan, PR",
+       "latitude":"18.4661",
+       "longitude":"-66.1160",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Codeando México",
+       "website":"http://codeandomexico.org",
+       "events_url":"",
+       "rss":"http://blog.codeandomexico.org/",
+       "projects_list_url":"https://github.com/CodeandoMexico",
+       "city":"Mexico City, Mexico",
+       "latitude":"23.6267",
+       "longitude":"-102.5375",
+       "tags":[
+          "Code for All"
+       ]
+    },
+    {
+       "name":"CodeNamu",
+       "website":"http://codenamu.org",
+       "events_url":"http://www.meetup.com/Code-for-Seoul",
+       "rss":"http://codenamu.org/feed/",
+       "projects_list_url":"https://github.com/codeforseoul",
+       "city":"Seoul, South Korea",
+       "latitude":"37.5150",
+       "longitude":"127.0165",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Codigo para la Ciudad de Mexico",
+       "website":"http://codigo.labplc.mx",
+       "events_url":"",
+       "rss":"http://labplc.mx/category/conversaciones/",
+       "projects_list_url":"https://github.com/labplc",
+       "city":"Mexico City, MX",
+       "latitude":"19.4320",
+       "longitude":"-99.1332",
+       "tags":[
+          "Code for All"
+       ]
+    },
+    {
+       "name":"Data SF",
+       "website":"http://datasf.org/",
+       "events_url":"",
+       "rss":"http://datasf.org/blog/",
+       "projects_list_url":"https://github.com/datasf",
+       "city":"San Francisco, CA",
+       "latitude":"37.7759",
+       "longitude":"-122.4137",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Data.gov",
+       "website":"http://www.data.gov",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://docs.google.com/spreadsheet/pub?key=0ArHmv-6U1drqdG81Tjh5RjlBTkR3RVdGREFZdDluZ2c&output=csv",
+       "city":"Washington, DC",
+       "latitude":"38.9072",
+       "longitude":"-77.0365",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Detroit Water Project",
+       "website":"https://www.detroitwaterproject.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/detroitwaterproject",
+       "city":"Detroit, MI",
+       "latitude":"42.3314",
+       "longitude":"-83.0458",
+       "type":"partner",
+       "tags":[
+          "partner"
+       ]
+    },
+    {
+       "name":"FreeGeekChicago",
+       "website":"http://www.freegeekchicago.org/",
+       "events_url":"",
+       "rss":"http://freegeekchicago.org/feed",
+       "projects_list_url":"https://github.com/sc3/",
+       "city":"Chicago, IL",
+       "latitude":"41.8781",
+       "longitude":"-87.6298",
+       "type":"partner, midwest",
+       "tags":[
+          "partner",
+          "midwest"
+       ]
+    },
+    {
+       "name":"Northern Illinois University (Tech Bark)",
+       "website":"http://www.huskiehack.org/",
+       "city":"Dekalb, IL",
+       "latitude":"41.9294736",
+       "longitude":"-88.7503647",
+       "events_url":"",
+       "previous_names":[
+          "Tech Bark"
+       ],
+       "projects_list_url":"",
+       "tags":[
+          "Brigade"
+       ],
+       "type":"Brigade",
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/5865032145652409353"
+    },
+    {
+       "name":"Hacking Madison",
+       "website":"http://hackingmadison.org",
+       "events_url":"http://www.meetup.com/Civic-hacking-Madison/",
+       "rss":"",
+       "projects_list_url":"https://github.com/hackingmadison",
+       "city":"Madison,WI",
+       "latitude":"43.0731",
+       "longitude":"-89.4012",
+       "type":"Brigade, midwest",
+       "tags":[
+          "Brigade",
+          "midwest"
+       ]
+    },
+    {
+       "name":"Hack Tahoe",
+       "website":"http://hack.tahoe.coop/",
+       "projects_list_url":"https://github.com/hacktahoe",
+       "city":"South Lake Tahoe, California",
+       "latitude":"39.096849",
+       "longitude":"-120.032351",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Hacking Monterrey",
+       "website":"http://hackingmty.org/",
+       "events_url":"http://www.meetup.com/Open-Data-Monterrey/",
+       "rss":"",
+       "projects_list_url":"https://github.com/hackingmty",
+       "city":"Monterrey, Mexico",
+       "latitude":"25.6488",
+       "longitude":"-100.3031",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Loomio",
+       "website":"http://www.loomio.org",
+       "events_url":"",
+       "rss":"http://blog.loomio.org/feed/",
+       "projects_list_url":"https://github.com/loomio",
+       "city":"Wellington, New Zealand",
+       "latitude":"-41.2866",
+       "longitude":"174.7755",
+       "type":"Partner",
+       "tags":[
+          "Partner"
+       ]
+    },
+    {
+       "name":"OK Lab Bonn",
+       "website":"http://codefor.de/bonn/",
+       "events_url":"http://www.meetup.com/OKLab-Bonn/",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Bonn, Germany",
+       "latitude":"50.7374",
+       "longitude":"7.0982",
+       "type":"Brigade, OK Lab",
+       "tags":[
+          "Brigade",
+          "OK Lab"
+       ]
+    },
+    {
+       "name":"OK Lab Gießen",
+       "website":"http://codefor.de/giessen",
+       "events_url":"http://www.meetup.com/OK-Lab-Giessen/",
+       "rss":"",
+       "projects_list_url":"https://github.com/CodeForGiessen",
+       "city":"Gießen, Germany",
+       "latitude":"50.5871",
+       "longitude":"8.6909",
+       "type":"Brigade, OK Lab",
+       "tags":[
+          "Brigade",
+          "OK Lab"
+       ]
+    },
+    {
+       "name":"Code for Hamburg",
+       "website":"http://codeforhamburg.org",
+       "events_url":"http://www.meetup.com/codeforhamburg/",
+       "rss":"",
+       "projects_list_url":"https://docs.google.com/spreadsheets/d/1OIQ4NsQ4v9LqYolsp7tvOthmf67dWn5KlnGocv2_QAY/export?format=csv",
+       "city":"Hamburg, Germany",
+       "latitude":"53.54762",
+       "longitude":"9.97776",
+       "type":"Brigade, OK Lab",
+       "tags":[
+          "Brigade",
+          "OK Lab"
+       ]
+    },
+    {
+       "name":"OK Lab Köln",
+       "website":"http://codefor.de/koeln",
+       "events_url":"http://www.meetup.com/OKLab-Koln-Meetup",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeforcologne/",
+       "city":"Cologne, Germany",
+       "latitude":"50.9500",
+       "longitude":"6.9667",
+       "type":"Brigade, OK Lab",
+       "tags":[
+          "Brigade",
+          "OK Lab"
+       ]
+    },
+    {
+       "name":"OK Lab München",
+       "website":"http://codefor.de/muenchen",
+       "events_url":"http://www.meetup.com/OK-Lab-Munchen/",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeformunich",
+       "city":"Munich, Germany",
+       "latitude":"48.1333",
+       "longitude":"11.5667",
+       "type":"Brigade, OK Lab",
+       "tags":[
+          "Brigade",
+          "OK Lab"
+       ]
+    },
+    {
+       "name":"OK Lab Münster",
+       "website":"http://codefor.de/muenster",
+       "events_url":"http://www.meetup.com/OK-Lab-Munster/",
+       "rss":"",
+       "projects_list_url":"https://github.com/codeformuenster",
+       "city":"Muenster, Germany",
+       "latitude":"51.9667",
+       "longitude":"7.6333",
+       "type":"Brigade, OK Lab",
+       "tags":[
+          "Brigade",
+          "OK Lab"
+       ]
+    },
+    {
+       "name":"Open Brazil",
+       "website":"http://openbrazil.org/",
+       "events_url":"http://www.meetup.com/openbrazil/",
+       "rss":"",
+       "projects_list_url":"https://github.com/CodeForBrazil/",
+       "city":"Brasília, DF",
+       "latitude":"-15.7930",
+       "longitude":"-47.8834",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Chattanooga",
+       "website":"http://openchattanooga.com/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/openchattanooga",
+       "city":"Chattanooga, TN",
+       "latitude":"35.0456",
+       "longitude":"-85.3097",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Data Standards",
+       "website":"",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/open-data-standards",
+       "city":"",
+       "type":"Project",
+       "tags":[
+          "Project"
+       ]
+    },
+    {
+       "name":"BetaCityYEG",
+       "website":"http://betacity.ca/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Edmonton, Canada",
+       "latitude":"53.4538",
+       "longitude":"-113.5090",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Elections",
+       "website":"http://openelections.net/",
+       "events_url":"",
+       "rss":"http://blog.openelections.net/",
+       "projects_list_url":"https://github.com/openelections",
+       "city":"",
+       "type":"Project",
+       "tags":[
+          "Project"
+       ]
+    },
+    {
+       "name":"Open Indy",
+       "website":"http://www.openindybrigade.com/",
+       "events_url":"http://www.meetup.com/Open-Indy-Brigade/",
+       "rss":"",
+       "projects_list_url":"",
+       "city":"Indianapolis, IN",
+       "latitude":"39.7669",
+       "longitude":"-86.1500",
+       "type":"Brigade",
+       "social_profiles":{
+          "twitter":"@IndyBrigade"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Lexington",
+       "website":"http://openlexington.org/",
+       "events_url":"https://www.meetup.com/openlexington/",
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/12249826946855576853",
+       "projects_list_url":"https://github.com/openlexington",
+       "city":"Lexington, KY",
+       "latitude":"38.0406",
+       "longitude":"-84.5037",
+       "type":"Brigade",
+       "social_profiles":{
+          "twitter":"@openlexington"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Nebraska",
+       "website":"http://opennebraska.io/",
+       "events_url":"http://www.meetup.com/Open-Nebraska-Meetup/",
+       "rss":"",
+       "projects_list_url":"https://github.com/opennebraska",
+       "city":"Omaha, NE",
+       "latitude":"41.2524",
+       "longitude":"-95.9980",
+       "type":"Brigade, midwest",
+       "tags":[
+          "Brigade",
+          "midwest"
+       ]
+    },
+    {
+       "name":"Open San Antonio",
+       "website":"http://opensatx.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/opensatx",
+       "city":"San Antonio, TX",
+       "latitude":"29.4245",
+       "longitude":"-98.4946",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Syracuse",
+       "website":"http://opensyracuse.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/OpenSyracuse",
+       "city":"Syracuse, NY",
+       "latitude":"43.0469",
+       "longitude":"-76.1444",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Wichita",
+       "website":"http://openwichita.com/",
+       "events_url":"http://www.meetup.com/openwichita/",
+       "rss":"",
+       "projects_list_url":"https://github.com/openwichita",
+       "city":"Wichita, KS",
+       "latitude":"37.6870",
+       "longitude":"-97.3356",
+       "type":"Brigade",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/openwichita/",
+          "twitter":"@openwichita"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Zagreb",
+       "website":"http://zagreb.codecorcroatia.org",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/openzagreb",
+       "city":"Zagreb, Croatia",
+       "latitude":"45.7930",
+       "longitude":"15.9464",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Poplus",
+       "website":"http://poplus.org/",
+       "events_url":"https://www.google.com/calendar/embed?src=b9cleffo7lgld26strcs6ec1os%40group.calendar.google.com&ctz=Europe/London",
+       "rss":"http://feeds.feedburner.com/poplus/blog",
+       "projects_list_url":"https://docs.google.com/a/codeforamerica.org/spreadsheets/d/14OicIHuBbweZKegkLCYwnbOfiK4lHbuAzcWkknplXOs/export?format=csv",
+       "city":"",
+       "latitude":"0.0000",
+       "longitude":"0.0000",
+       "type":"Partner",
+       "tags":[
+          "Partner"
+       ]
+    },
+    {
+       "name":"Presidential Innovation Fellows",
+       "website":"http://presidentialinnovation.org/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/presidential-innovation-fellows",
+       "city":"Washington, DC",
+       "latitude":"38.9072",
+       "longitude":"-77.0365",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Project Open Data",
+       "website":"http://project-open-data.github.io/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/project-open-data",
+       "city":"Washington, DC",
+       "latitude":"38.9072",
+       "longitude":"-77.0365",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Smart Chicago Collaborative",
+       "website":"http://www.smartchicagocollaborative.org/",
+       "events_url":"",
+       "rss":"http://www.smartchicagocollaborative.org/feed/",
+       "projects_list_url":"https://github.com/smartchicago",
+       "city":"Chicago, IL",
+       "latitude":"41.8781",
+       "longitude":"-87.6298",
+       "type":"partner, midwest",
+       "tags":[
+          "partner",
+          "midwest"
+       ]
+    },
+    {
+       "name":"US Census Bureau",
+       "website":"http://www.census.gov/developers/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/uscensusbureau",
+       "city":"Washington, DC",
+       "latitude":"38.9072",
+       "longitude":"-77.0365",
+       "type":"Government",
+       "tags":[
+          "Government"
+       ]
+    },
+    {
+       "name":"Microsoft Technology and Civic Engagement",
+       "website":"http://microsoftnewyork.com/category/civic-tech/",
+       "events_url":"",
+       "rss":"",
+       "projects_list_url":"https://github.com/MicrosoftTCE",
+       "city":"New York, NY",
+       "latitude":"40.7144",
+       "longitude":"-74.0060",
+       "type":"Partner",
+       "tags":[
+          "Partner"
+       ]
+    },
+    {
+       "name":"Oakland TechEquity",
+       "website":"http://techequity.us/",
+       "events_url":"http://www.meetup.com/Oakland-Tech-Equity/",
+       "rss":"",
+       "projects_list_url":"https://github.com/oaktechequity",
+       "city":"Oakland, CA",
+       "latitude":"37.8044",
+       "longitude":"-122.2711",
+       "type":"Partner",
+       "tags":[
+          "Partner"
+       ]
+    },
+    {
+       "name":"Missoula Civic Hackathon",
+       "website":"http://missoulacivichackathon.org",
+       "projects_list_url":"https://github.com/Blue-Sky-Skunkworks",
+       "city":"Missoula, MT",
+       "latitude":"46.8625418",
+       "longitude":"-113.9848200",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Milwaukee Data Initiative",
+       "website":"http://milwaukeedata.org/",
+       "events_url":"https://www.meetup.com/MKEData/",
+       "projects_list_url":"https://github.com/milwaukeedata",
+       "city":"Milwaukee, WI",
+       "latitude":"43.0389",
+       "longitude":"-87.9065",
+       "type":"Brigade",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/mkedata",
+          "twitter":"@datamke"
+       },
+       "tags":[
+          "Brigade"
+       ],
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/9762567980029012006"
+    },
+    {
+       "name":"Code for Floripa",
+       "website":"http://codeforfloripa.com",
+       "events_url":"http://www.meetup.com/pt-BR/CodeForFloripa/",
+       "rss":"",
+       "projects_list_url":"http://codeforfloripa.com/#focus",
+       "city":"Florianópolis, SC - Brazil",
+       "latitude":"-27.5908812",
+       "longitude":"-48.5167347",
+       "type":"Brigade",
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Berkeley",
+       "website":"",
+       "events_url":"",
+       "projects_list_url":"github.com/CodeForBerkeley",
+       "city":"Berkeley, CA",
+       "type":"Brigade",
+       "latitude":"37.8715926",
+       "longitude":"-122.272747",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/CodeForBerkeley"
+       },
+       "tags":[
+          "Brigade"
+       ],
+       "rss":"https://google.com/alerts/feeds/06912685966400056337/12249826946855578548"
+    },
+    {
+       "name":"Code for OKC",
+       "website":"codeforokc.org/",
+       "events_url":"https://www.meetup.com/Code-for-OKC/",
+       "projects_list_url":"github.com/codeforokc",
+       "city":"Oklahoma City, OK",
+       "type":"Brigade",
+       "latitude":"35.4675602",
+       "longitude":"-97.5164276",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforokc/",
+          "twitter":"@codeforokc"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Code for Princeton",
+       "website":"https://codeforprincetonblog.wordpress.com/",
+       "events_url":"https://www.meetup.com/codeforprinceton/",
+       "projects_list_url":"github.com/codeforprinceton",
+       "city":"Princeton, NJ",
+       "type":"Brigade",
+       "latitude":"40.3572976",
+       "longitude":"-74.6672226",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/codeforprinceton/",
+          "twitter":"@codeprinceton"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Open Denton",
+       "website":"https://www.opendenton.com/",
+       "events_url":"",
+       "projects_list_url":"https://github.com/OpenDenton",
+       "city":"Denton, TX",
+       "type":"Brigade",
+       "latitude":"33.2148412",
+       "longitude":"-97.13306829999999",
+       "social_profiles":{
+          "facebook":"https://www.facebook.com/opendenton/",
+          "twitter":"@opendenton"
+       },
+       "tags":[
+          "Brigade"
+       ]
+    },
+    {
+       "name":"Georgia Technology Authority",
+       "website":"https://gta.georgia.gov/",
+       "city":"Atlanta, GA",
+       "latitude":"33.747590",
+       "longitude":"-84.389910",
+       "tags":[
+          "Government"
+       ],
+       "social_profiles":{
+          "linkedin":"https://www.linkedin.com/company/georgia-technology-authority/about/"
+       }
+    },
+    {
+       "name":"Digital Services Georgia",
+       "website":"https://digitalservices.georgia.gov/",
+       "city":"Atlanta, GA",
+       "rss":"https://digitalservices.georgia.gov/blogs",
+       "latitude":"33.747590",
+       "longitude":"-84.389910",
+       "tags":[
+          "Government"
+       ],
+       "social_profiles":{
+          "twitter":"@GeorgiaGovTeam",
+          "linkedin":"https://www.linkedin.com/company/georgiagov-interactive/",
+          "youtube":"https://www.youtube.com/user/GTACreative"
+       }
+    },
+    {
+       "name":"COVID19 Response Efforts (not brigade specific)",
+       "website":"",
+       "projects_list_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSRLgFqu8pavGV_3qNZ2MuSbN-DXvk9mD9pR-MbNpNrfwMh_MSVZpAitia_qBrR2jC2KxYruZtMO-I-/pub?gid=0&single=true&output=csv",
+       "city":"San Francisco, CA",
+       "type":"Brigade",
+       "tags":[
+          "Temporary",
+          "Code for America",
+          "Brigade Collaboration",
+          "Brigade"
+       ]
+    }
+ ]
