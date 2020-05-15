@@ -10,7 +10,7 @@ for i in range(0,len(linksDump)):
     temp["social_profiles"] = linksDump[i]
     newDict.append(temp)
 
-with open('data.json', 'w') as outfile:
+with open('../data.json', 'w') as outfile:
     json.dump(newDict, outfile)
 
 
