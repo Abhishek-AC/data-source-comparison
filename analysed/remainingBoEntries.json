@@ -26,32 +26,6 @@
        }
     },
     {
-       "ID":"67",
-       "ParentID":"3",
-       "name":"OpenColumbus (Ohio)",
-       "website":"https://www.scodemeetup.org/",
-       "projects_list_url":"https://github.com/SCODEMeetup",
-       "city":"Columbus, OH",
-       "events_url":"",
-       "social_profiles":{
-          "facebook":"https://www.facebook.com/opencolumbus/",
-          "twitter":"https://twitter.com/OpenColumbus"
-       }
-    },
-    {
-       "ID":"91",
-       "ParentID":"89",
-       "name":"Beta City YEG",
-       "website":"https://betacity.ca",
-       "projects_list_url":"",
-       "city":"",
-       "events_url":"",
-       "social_profiles":{
-          "facebook":"",
-          "twitter":"https://twitter.com/BetaCityYEG"
-       }
-    },
-    {
        "ID":"92",
        "ParentID":"89",
        "name":"Ottawa Civic Tech",

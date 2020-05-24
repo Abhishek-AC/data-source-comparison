@@ -146,30 +146,6 @@
        ]
     },
     {
-       "name":"Open Columbus (Ohio)",
-       "website":"http://site.opencolumbus.com/",
-       "city":"Columbus, OH",
-       "latitude":"39.9622601",
-       "longitude":"-83.0007065",
-       "events_url":"https://www.meetup.com/OpenColumbus/",
-       "previous_names":[
-          "Code for Columbus",
-          "OpenColumbus (Ohio)"
-       ],
-       "projects_list_url":"https://github.com/SCODEMeetup",
-       "tags":[
-          "Brigade",
-          "Code for America",
-          "Official"
-       ],
-       "social_profiles":{
-          "twitter":"@OpenColumbus",
-          "facebook":"https://www.facebook.com/opencolumbus/",
-          "linkedin":"https://www.linkedin.com/company/opencolumbus/"
-       },
-       "type":"Brigade, Code for America, Official"
-    },
-    {
        "name":"Code for Kissimmee",
        "website":"",
        "city":"Kissimmee, FL",
@@ -1052,20 +1028,6 @@
        "type":"Project",
        "tags":[
           "Project"
-       ]
-    },
-    {
-       "name":"BetaCityYEG",
-       "website":"http://betacity.ca/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Edmonton, Canada",
-       "latitude":"53.4538",
-       "longitude":"-113.5090",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
        ]
     },
     {
