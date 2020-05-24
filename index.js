@@ -26,7 +26,7 @@ var indexInBoData, indexIncfaData, count = 0, matchedIndexInBoData = [], matched
 // Finding matched entries on the basis of name field in both data sources
 for (indexInBoData = 0; indexInBoData< boData.length; ++indexInBoData) {
     for(indexIncfaData = 0; indexIncfaData< cfaData.length; ++indexIncfaData) {
-        if(boData[indexInBoData].name.toUpperCase() === cfaData[indexIncfaData].name.toUpperCase() ){
+        if((boData[indexInBoData].name.toLowerCase()).replace(/\s+/g, '') === (cfaData[indexIncfaData].name).toLowerCase().replace(/\s+/g, '') ){
             matchedIndexInBoData.push(indexInBoData) ;
             matchedIndexInCfaData.push(indexIncfaData);
             count ++;
