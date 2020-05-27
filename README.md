@@ -7,7 +7,8 @@ Handles only specific data source as of now. [Find Details](https://docs.google.
 ## Running the pre-processing python script
 
 ```
-python pre-processing/convert.py
+cd pre-processing
+python convert.py
 ```
 
 ## Running the diff analysis project
