@@ -101,21 +101,6 @@
        ]
     },
     {
-       "name":"Code for Aizu",
-       "website":"http://aizu.io/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Aizuwakamatsu, Japan",
-       "latitude":"37.4896",
-       "longitude":"139.9300",
-       "type":"Brigade, Code for Japan",
-       "tags":[
-          "Brigade",
-          "Code for Japan"
-       ]
-    },
-    {
        "name":"Code for Birmingham",
        "website":"http://www.codeforbirmingham.org/",
        "events_url":"http://www.meetup.com/Code-for-Birmingham-AL/",
@@ -233,20 +218,6 @@
        ]
     },
     {
-       "name":"Code for Fukuoka",
-       "website":"http://code4fukuoka.org/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Fukuoka, Japan",
-       "latitude":"33.5840",
-       "longitude":"130.4129",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
        "name":"Code for Gainesville",
        "website":"http://c4gnv.com",
        "events_url":"http://www.meetup.com/Code-for-Gainesville/",
@@ -325,20 +296,6 @@
        ]
     },
     {
-       "name":"Code for Ikoma",
-       "website":"http://code4ikoma.org/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Ikoma, Japan",
-       "latitude":"34.6920",
-       "longitude":"135.7006",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
        "name":"Code for Ireland",
        "website":"http://codeforireland.com/",
        "events_url":"http://codeforireland.com/events/",
@@ -349,34 +306,6 @@
        "longitude":"-6.257201628137899",
        "tags":[
  
-       ]
-    },
-    {
-       "name":"Code for Kanagawa",
-       "website":"https://www.facebook.com/CodeForKanagawa",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Yokohama, Japan",
-       "latitude":"35.4662",
-       "longitude":"139.6227",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Kanazawa",
-       "website":"http://www.codeforkanazawa.org/",
-       "events_url":"https://www.facebook.com/CodeForKanazawa",
-       "rss":"",
-       "projects_list_url":"https://github.com/codeforkanazawa-org",
-       "city":"Kanazawa, Japan",
-       "latitude":"36.5750",
-       "longitude":"136.6469",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
        ]
     },
     {
@@ -480,34 +409,6 @@
        ]
     },
     {
-       "name":"Code for Nagareyama",
-       "website":"https://www.facebook.com/pages/Code-for-NAGAREYAMA/445633632232347",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Nagareyama, Japan",
-       "latitude":"35.8586",
-       "longitude":"139.9116",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Nanto",
-       "website":"http://www.7104.info/codefor/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Nanto, Japan",
-       "latitude":"36.5905",
-       "longitude":"136.9289",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
        "name":"Code for NoVA",
        "website":"http://www.meetup.com/Code-for-NoVA/",
        "events_url":"http://www.meetup.com/Code-for-NoVA/",
@@ -520,20 +421,6 @@
        "social_profiles":{
           "twitter":"@codenovabrigade"
        },
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Okinawa",
-       "website":"http://code4okinawa.org/",
-       "events_url":"",
-       "rss":"http://code4okinawa.org/feed",
-       "projects_list_url":"https://github.com/codeforokinawa",
-       "city":"Okinawa, Japan",
-       "latitude":"26.2124",
-       "longitude":"127.6809",
-       "type":"Brigade",
        "tags":[
           "Brigade"
        ]
@@ -603,62 +490,6 @@
        "city":"Richmond, VA",
        "latitude":"37.5407",
        "longitude":"-77.4336",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Saga",
-       "website":"http://code4saga.org/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Saga, Japan",
-       "latitude":"33.2487",
-       "longitude":"130.3010",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Saitama",
-       "website":"https://www.facebook.com/groups/186097664924714/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Saitama, Japan",
-       "latitude":"35.9985",
-       "longitude":"139.3496",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Sapporo",
-       "website":"http://www.codeforsapporo.org/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"https://github.com/codeforsapporo",
-       "city":"Sapporo, Japan",
-       "latitude":"43.0553",
-       "longitude":"141.3455",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
-       "name":"Code for Shiogama",
-       "website":"https://www.facebook.com/CodeForShiogama",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"",
-       "city":"Shiogama, Japan",
-       "latitude":"38.3014",
-       "longitude":"141.0273",
        "type":"Brigade",
        "tags":[
           "Brigade"

@@ -1302,7 +1302,7 @@
     {
        "ID":"101",
        "ParentID":"89",
-       "name":"Data for Good Montr\ufffdal",
+       "name":"Data for Good Montral",
        "website":"",
        "projects_list_url":"",
        "city":"",
@@ -1367,7 +1367,7 @@
     {
        "ID":"106",
        "ParentID":"105",
-       "name":"Code for Tokyo\ufffd",
+       "name":"Code for Tokyo",
        "website":"https://codefor.tokyo/",
        "projects_list_url":"https://github.com/codefortokyo",
        "city":"\ufffdTokyo",
@@ -1380,7 +1380,7 @@
     {
        "ID":"107",
        "ParentID":"105",
-       "name":"Code for Sapporo\ufffd",
+       "name":"Code for Sapporo",
        "website":"http://www.codeforsapporo.org/",
        "projects_list_url":"https://github.com/codeforsapporo",
        "city":"\ufffdSapporo, Hokkaido",
@@ -1393,7 +1393,7 @@
     {
        "ID":"108",
        "ParentID":"105",
-       "name":"Code for Hakodate\ufffd",
+       "name":"Code for Hakodate",
        "website":"http://codeforhakodate.org/",
        "projects_list_url":"https://github.com/codeforhakodate",
        "city":"\ufffdHakodate, Hokkaido",
@@ -1406,7 +1406,7 @@
     {
        "ID":"109",
        "ParentID":"105",
-       "name":"Code for Muroran\ufffd",
+       "name":"Code for Muroran",
        "website":"https://ja.localwiki.org/mr/Code_for_Muroran",
        "projects_list_url":"https://github.com/muroran/",
        "city":"\ufffdHokkaido Muroran",
@@ -1419,10 +1419,10 @@
     {
        "ID":"110",
        "ParentID":"105",
-       "name":"????\ufffd",
+       "name":"Haumori",
        "website":"https://howmori.org/",
        "projects_list_url":"https://github.com/howml",
-       "city":"\ufffdHokkaido Mori-machi",
+       "city":"Hokkaido Mori-machi",
        "events_url":"",
        "social_profiles":{
           "facebook":"https://www.facebook.com/howmori/?__tn__=%2Cd%2CP-R&eid=ARCjFJGX8P9UoeEoB89kJVPfH31uwqxIZqn-5jvEZIE6CTbnZ0ZEkfpqeA1UCBx8ykDCEQKUHjiTSqP0",
@@ -1432,7 +1432,7 @@
     {
        "ID":"111",
        "ParentID":"105",
-       "name":"Code for Aomori\ufffd",
+       "name":"Code for Aomori",
        "website":"https://www.codeforaomori.org/",
        "projects_list_url":"",
        "city":"\ufffdAomori Prefecture",
@@ -1445,7 +1445,7 @@
     {
        "ID":"112",
        "ParentID":"105",
-       "name":"Code for Shiogama\ufffd",
+       "name":"Code for Shiogama",
        "website":"",
        "projects_list_url":"",
        "city":"\ufffdMiyagi Prefecture Shiogama",
@@ -1458,7 +1458,7 @@
     {
        "ID":"113",
        "ParentID":"105",
-       "name":"Code for Sendai\ufffd",
+       "name":"Code for Sendai",
        "website":"http://code4sendai.org/",
        "projects_list_url":"",
        "city":"\ufffdSendai, Miyagi Prefecture",
@@ -1471,7 +1471,7 @@
     {
        "ID":"114",
        "ParentID":"105",
-       "name":"Code for Akita\ufffd",
+       "name":"Code for Akita",
        "website":"https://code4akita.org/",
        "projects_list_url":"",
        "city":"\ufffdAkita, Akita Prefecture",
@@ -1484,7 +1484,7 @@
     {
        "ID":"115",
        "ParentID":"105",
-       "name":"Code for Aizu\ufffd",
+       "name":"Code for Aizu",
        "website":"http://aizu.io/",
        "projects_list_url":"",
        "city":"\ufffdFukushima Prefecture Aizu region",
@@ -1497,7 +1497,7 @@
     {
        "ID":"116",
        "ParentID":"105",
-       "name":"Code for Shirakawa\ufffd",
+       "name":"Code for Shirakawa",
        "website":"http://shirakawa-fukko.jimdo.com/",
        "projects_list_url":"",
        "city":"\ufffdFukushima Prefecture Shirakawa",
@@ -1510,7 +1510,7 @@
     {
        "ID":"117",
        "ParentID":"105",
-       "name":"????????????\ufffd",
+       "name":"Code Four Ibaraki",
        "website":"https://codeforibaraki.org/",
        "projects_list_url":"",
        "city":"\ufffdIbaraki Prefecture",
@@ -1523,7 +1523,7 @@
     {
        "ID":"118",
        "ParentID":"105",
-       "name":"Code for Saitama\ufffd",
+       "name":"Code for Saitama",
        "website":"http://www.code4saitama.org/",
        "projects_list_url":"",
        "city":"\ufffdSaitama",
@@ -1536,7 +1536,7 @@
     {
        "ID":"119",
        "ParentID":"105",
-       "name":"Code for Kumagaya\ufffd",
+       "name":"Code for Kumagaya",
        "website":"http://code4kumagaya.org/",
        "projects_list_url":"",
        "city":"\ufffdKumagaya, Saitama Prefecture",
@@ -1549,7 +1549,7 @@
     {
        "ID":"120",
        "ParentID":"105",
-       "name":"Code for TODA\ufffd",
+       "name":"Code for TODA",
        "website":"https://codefortoda.org/",
        "projects_list_url":"https://github.com/codefortoda",
        "city":"\ufffdToda City, Saitama Prefecture",
@@ -1562,7 +1562,7 @@
     {
        "ID":"121",
        "ParentID":"105",
-       "name":"Code for WAKO\ufffd",
+       "name":"Code for WAKO",
        "website":"https://www.wakokyodo.net/chiikikoeki/",
        "projects_list_url":"",
        "city":"\ufffdWako, Saitama",
@@ -1575,7 +1575,7 @@
     {
        "ID":"122",
        "ParentID":"105",
-       "name":"Code for Ichikawa\ufffd",
+       "name":"Code for Ichikawa",
        "website":"http://codeforichikawa.org/",
        "projects_list_url":"https://github.com/codeforichikawa",
        "city":"\ufffdIchikawa, Chiba Prefecture",
@@ -1588,7 +1588,7 @@
     {
        "ID":"123",
        "ParentID":"105",
-       "name":"Code for Chiba\ufffd",
+       "name":"Code for Chiba",
        "website":"http://www.code4chiba.org/",
        "projects_list_url":"https://github.com/codeforchiba",
        "city":"\ufffdChiba City, Chiba Prefecture",
@@ -1601,7 +1601,7 @@
     {
        "ID":"124",
        "ParentID":"105",
-       "name":"Code for NAGAREYAMA\ufffd",
+       "name":"Code for NAGAREYAMA",
        "website":"http://www.code-for-nagareyama.org/",
        "projects_list_url":"",
        "city":"\ufffdChiba Prefecture Nagareyama",
@@ -1614,7 +1614,7 @@
     {
        "ID":"125",
        "ParentID":"105",
-       "name":"Code for Funabashi\ufffd",
+       "name":"Code for Funabashi",
        "website":"http://code4funabashi.org/",
        "projects_list_url":"",
        "city":"\ufffdFunabashi, Chiba Prefecture",
@@ -1627,7 +1627,7 @@
     {
        "ID":"126",
        "ParentID":"105",
-       "name":"Code for Matsudo\ufffd",
+       "name":"Code for Matsudo",
        "website":"https://code4matsudo.org/",
        "projects_list_url":"",
        "city":"\ufffdMatsudo, Chiba Prefecture",
@@ -1640,7 +1640,7 @@
     {
        "ID":"127",
        "ParentID":"105",
-       "name":"Code for Shinagawa\ufffd",
+       "name":"Code for Shinagawa",
        "website":"https://code4shinagawa.org/",
        "projects_list_url":"",
        "city":"\ufffdShinagawa-ku, Tokyo",
@@ -1679,7 +1679,7 @@
     {
        "ID":"130",
        "ParentID":"105",
-       "name":"Code for Chuo\ufffd",
+       "name":"Code for Chuo",
        "website":"http://c4chuo.strikingly.com/",
        "projects_list_url":"",
        "city":"\ufffdChuo-ku, Tokyo",
@@ -1692,7 +1692,7 @@
     {
        "ID":"131",
        "ParentID":"105",
-       "name":"Code for Toshima\ufffd",
+       "name":"Code for Toshima",
        "website":"https://code4toshima.org/",
        "projects_list_url":"https://github.com/codefortoshima",
        "city":"\ufffdToshima-ku, Tokyo",
@@ -1705,7 +1705,7 @@
     {
        "ID":"132",
        "ParentID":"105",
-       "name":"Code for ??",
+       "name":"Code for Nakano",
        "website":"",
        "projects_list_url":"",
        "city":"\ufffdNakano-ku, Tokyo",
@@ -1718,7 +1718,7 @@
     {
        "ID":"133",
        "ParentID":"105",
-       "name":"Code for Nerima\ufffd",
+       "name":"Code for Nerima",
        "website":"http://code4nerima.org/",
        "projects_list_url":"https://github.com/code4nerima",
        "city":"\ufffdNerima-ku, Tokyo",
@@ -1770,7 +1770,7 @@
     {
        "ID":"137",
        "ParentID":"105",
-       "name":"Code for Fuchu\ufffd",
+       "name":"Code for Fuchu",
        "website":"https://code4fuchu.jimdofree.com/",
        "projects_list_url":"",
        "city":"\ufffdFuchu, Tokyo",
@@ -1783,7 +1783,7 @@
     {
        "ID":"138",
        "ParentID":"105",
-       "name":"Code for Hachioji\ufffd",
+       "name":"Code for Hachioji",
        "website":"http://code4hachioji.org/",
        "projects_list_url":"https://github.com/code48",
        "city":"\ufffdHachioji, Tokyo",
@@ -1796,7 +1796,7 @@
     {
        "ID":"139",
        "ParentID":"105",
-       "name":"Code for Kanagawa\ufffd",
+       "name":"Code for Kanagawa",
        "website":"http://codeforkanagawa.org/",
        "projects_list_url":"",
        "city":"\ufffdKanagawa Prefecture",
@@ -1809,7 +1809,7 @@
     {
        "ID":"140",
        "ParentID":"105",
-       "name":"Code for Kawasaki\ufffd(??????)\ufffd\ufffd",
+       "name":"Code for Kawasaki (open Kawasaki)",
        "website":"http://openkawasaki.org/",
        "projects_list_url":"https://github.com/openkawasaki/",
        "city":"\ufffdKawasaki City, Kanagawa Prefecture",
@@ -1822,7 +1822,7 @@
     {
        "ID":"141",
        "ParentID":"105",
-       "name":"Code for Yokosuka\ufffd",
+       "name":"Code for Yokosuka",
        "website":"https://codeforyokosuka.org/",
        "projects_list_url":"https://github.com/CodeforYokosuka",
        "city":"\ufffdYokosuka, Kanagawa Prefecture",
@@ -1835,7 +1835,7 @@
     {
        "ID":"142",
        "ParentID":"105",
-       "name":"Code for YOKOHAMA\ufffd",
+       "name":"Code for YOKOHAMA",
        "website":"https://code4.yokohama/",
        "projects_list_url":"",
        "city":"\ufffdYokohama-city kanagawa prefecture",
@@ -1848,7 +1848,7 @@
     {
        "ID":"143",
        "ParentID":"105",
-       "name":"Code for Niigata\ufffd",
+       "name":"Code for Niigata",
        "website":"http://www.codeforniigata.org/",
        "projects_list_url":"https://github.com/CodeForNiigata/",
        "city":"\ufffdNiigata, Niigata Prefecture",
@@ -1861,7 +1861,7 @@
     {
        "ID":"144",
        "ParentID":"105",
-       "name":"????????\ufffd",
+       "name":"Code Four Takaoka",
        "website":"http://code4takaoka.org/",
        "projects_list_url":"",
        "city":"\ufffdTakaoka, Toyama Prefecture",
@@ -1874,7 +1874,7 @@
     {
        "ID":"145",
        "ParentID":"105",
-       "name":"??????????????\ufffd",
+       "name":"Code Four Toyama City",
        "website":"https://codefortoyama.jimdo.com/",
        "projects_list_url":"",
        "city":"\ufffdToyama, Toyama Prefecture",
@@ -1887,7 +1887,7 @@
     {
        "ID":"146",
        "ParentID":"105",
-       "name":"Code for Nanto\ufffd",
+       "name":"Code for Nanto",
        "website":"http://www.code4nanto.org/",
        "projects_list_url":"",
        "city":"\ufffdToyama Prefecture Nanto",
@@ -1900,7 +1900,7 @@
     {
        "ID":"147",
        "ParentID":"105",
-       "name":"Code for Kanazawa\ufffd",
+       "name":"Code for Kanazawa",
        "website":"http://www.codeforkanazawa.org/",
        "projects_list_url":"https://github.com/codeforkanazawa-org",
        "city":"\ufffdIshikawa Prefecture",
@@ -1913,7 +1913,7 @@
     {
        "ID":"148",
        "ParentID":"105",
-       "name":"Code for Sabae\ufffd",
+       "name":"Code for Sabae",
        "website":"http://sabae.club/",
        "projects_list_url":"https://github.com/code4sabae",
        "city":"\ufffdFukui Prefecture Sabae",
@@ -1939,7 +1939,7 @@
     {
        "ID":"150",
        "ParentID":"105",
-       "name":"Code for ?????\ufffd",
+       "name":"Code for Kuni Fujino",
        "website":"https://www.code4numazu.org/",
        "projects_list_url":"",
        "city":"\ufffdNumazu, Shizuoka Prefecture",
@@ -1952,7 +1952,7 @@
     {
        "ID":"151",
        "ParentID":"105",
-       "name":"Code for Aichi\ufffd",
+       "name":"Code for Aichi",
        "website":"https://www.code4aichi.org/",
        "projects_list_url":"https://github.com/code4aichi",
        "city":"\ufffdAichi Prefecture",
@@ -1965,7 +1965,7 @@
     {
        "ID":"152",
        "ParentID":"105",
-       "name":"Code for Nagoya\ufffd",
+       "name":"Code for Nagoya",
        "website":"https://www.code4.nagoya/",
        "projects_list_url":"https://github.com/code4nagoya",
        "city":"\ufffdAichi Prefecture, Nagoya City",
@@ -1978,7 +1978,7 @@
     {
        "ID":"153",
        "ParentID":"105",
-       "name":"Code for MIKAWA\ufffd",
+       "name":"Code for MIKAWA",
        "website":"https://uzura.org/",
        "projects_list_url":"",
        "city":"\ufffdAichi Prefecture Mikawa region",
@@ -2004,7 +2004,7 @@
     {
        "ID":"155",
        "ParentID":"105",
-       "name":"Code for Kusatsu\ufffd",
+       "name":"Code for Kusatsu",
        "website":"https://codeforkusatsu.org/",
        "projects_list_url":"",
        "city":"\ufffdKusatsu City, Shiga Prefecture",
@@ -2017,7 +2017,7 @@
     {
        "ID":"156",
        "ParentID":"105",
-       "name":"Code for Osaka\ufffd",
+       "name":"Code for Osaka",
        "website":"http://code4.osaka/",
        "projects_list_url":"https://github.com/open-osaka (not sure)",
        "city":"\ufffdOsaka prefecture",
@@ -2043,7 +2043,7 @@
     {
        "ID":"158",
        "ParentID":"105",
-       "name":"Code for Hyogo\ufffd",
+       "name":"Code for Hyogo",
        "website":"",
        "projects_list_url":"",
        "city":"\ufffdHyogo Prefecture",
@@ -2056,7 +2056,7 @@
     {
        "ID":"159",
        "ParentID":"105",
-       "name":"Code for Amagasaki\ufffd",
+       "name":"Code for Amagasaki",
        "website":"https://c4ama.wordpress.com/",
        "projects_list_url":"https://github.com/codeforamagasaki",
        "city":"\ufffdAmagasaki, Hyogo Prefecture",
@@ -2108,7 +2108,7 @@
     {
        "ID":"163",
        "ParentID":"105",
-       "name":"Code for Nara\ufffd",
+       "name":"Code for Nara",
        "website":"http://www.code4nara.org/",
        "projects_list_url":"https://github.com/code4nara/",
        "city":"\ufffdNara Prefecture",
@@ -2121,7 +2121,7 @@
     {
        "ID":"164",
        "ParentID":"105",
-       "name":"Code for Ikoma\ufffd",
+       "name":"Code for Ikoma",
        "website":"https://www.code4ikoma.org/",
        "projects_list_url":"https://github.com/code4ikoma/",
        "city":"\ufffdNara Prefecture Ikoma",
@@ -2134,7 +2134,7 @@
     {
        "ID":"165",
        "ParentID":"105",
-       "name":"CODE for YAMATOKORIYAMA\ufffd",
+       "name":"CODE for YAMATOKORIYAMA",
        "website":"http://code4yamatokoriyama.site/",
        "projects_list_url":"",
        "city":"\ufffdNara Prefecture Yamatokoriyama",
@@ -2147,7 +2147,7 @@
     {
        "ID":"166",
        "ParentID":"105",
-       "name":"????????",
+       "name":"Code Four Shimane",
        "website":"",
        "projects_list_url":"",
        "city":"\ufffdShimane Prefecture",
@@ -2160,7 +2160,7 @@
     {
        "ID":"167",
        "ParentID":"105",
-       "name":"Code for Kurashiki\ufffd",
+       "name":"Code for Kurashiki",
        "website":"http://code4kurashiki.org/",
        "projects_list_url":"",
        "city":"\ufffdKurashiki, Okayama Prefecture",
@@ -2173,7 +2173,7 @@
     {
        "ID":"168",
        "ParentID":"105",
-       "name":"Code for Hiroshima\ufffd",
+       "name":"Code for Hiroshima",
        "website":"https://www.code4hiroshima.org/",
        "projects_list_url":"https://github.com/code4hiroshima",
        "city":"\ufffdHiroshima, Hiroshima Prefecture",
@@ -2199,7 +2199,7 @@
     {
        "ID":"170",
        "ParentID":"105",
-       "name":"Code for Ube\ufffd",
+       "name":"Code for Ube",
        "website":"http://codeforube.thetechshare.org/",
        "projects_list_url":"",
        "city":"\ufffdUbe City, Yamaguchi Prefecture",
@@ -2238,7 +2238,7 @@
     {
        "ID":"173",
        "ParentID":"105",
-       "name":"Code for Fukuoka\ufffd",
+       "name":"Code for Fukuoka",
        "website":"http://www.codeforfukuoka.org/",
        "projects_list_url":"",
        "city":"\ufffdFukuoka Prefecture",
@@ -2251,7 +2251,7 @@
     {
        "ID":"174",
        "ParentID":"105",
-       "name":"Code for Kitakyushu\ufffd",
+       "name":"Code for Kitakyushu",
        "website":"http://www.code4kitakyushu.org/index.html",
        "projects_list_url":"",
        "city":"\ufffdKitakyushu, Fukuoka Prefecture",
@@ -2264,7 +2264,7 @@
     {
        "ID":"175",
        "ParentID":"105",
-       "name":"Code for KURUME\ufffd",
+       "name":"Code for KURUME",
        "website":"http://code4kurume.org/",
        "projects_list_url":"",
        "city":"\ufffdFukuoka Prefecture Kurume",
@@ -2277,7 +2277,7 @@
     {
        "ID":"176",
        "ParentID":"105",
-       "name":"Code for Saga\ufffd",
+       "name":"Code for Saga",
        "website":"https://code4saga.org/",
        "projects_list_url":"",
        "city":"\ufffdSaga Prefecture",
@@ -2316,7 +2316,7 @@
     {
        "ID":"179",
        "ParentID":"105",
-       "name":"Code for Okinawa\ufffd",
+       "name":"Code for Okinawa",
        "website":"http://code4okinawa.org/",
        "projects_list_url":"https://github.com/CodeforOkinawa",
        "city":"\ufffdOkinawa Prefecture",
@@ -2329,7 +2329,7 @@
     {
        "ID":"180",
        "ParentID":"105",
-       "name":"Code for Adachi\ufffd",
+       "name":"Code for Adachi",
        "website":"https://code4adachi.org/",
        "projects_list_url":"",
        "city":"\ufffdAdachi-ku, Tokyo",
@@ -2342,7 +2342,7 @@
     {
        "ID":"181",
        "ParentID":"105",
-       "name":"Code for Gumyoji\ufffd",
+       "name":"Code for Gumyoji",
        "website":"https://gumyoji.yokohama/ict/",
        "projects_list_url":"",
        "city":"\ufffdYokohama City, Kanagawa Prefecture Minami-ku, Gumyoji",
@@ -2355,7 +2355,7 @@
     {
        "ID":"182",
        "ParentID":"105",
-       "name":"Code for Yamanashi\ufffd",
+       "name":"Code for Yamanashi",
        "website":"https://code4yamanashi.jimdosite.com/",
        "projects_list_url":"",
        "city":"\ufffdYamanashi Prefecture",
@@ -2368,7 +2368,7 @@
     {
        "ID":"183",
        "ParentID":"105",
-       "name":"Code for Toyota\ufffd",
+       "name":"Code for Toyota",
        "website":"https://codefortoyota.localinfo.jp/",
        "projects_list_url":"",
        "city":"\ufffdToyota City, Aichi Prefecture",
@@ -2381,7 +2381,7 @@
     {
        "ID":"184",
        "ParentID":"105",
-       "name":"Code for SUSONO\ufffd",
+       "name":"Code for SUSONO",
        "website":"https://code4susono.jpn.org/",
        "projects_list_url":"",
        "city":"\ufffdShizuoka Prefecture Susono",
@@ -2394,7 +2394,7 @@
     {
        "ID":"185",
        "ParentID":"105",
-       "name":"Code for ??\ufffd",
+       "name":"Code for election",
        "website":"http://election.code4japan.org/",
        "projects_list_url":"https://github.com/codeforjapan/codeforelection",
        "city":"\ufffdCreating open data of election candidates",
@@ -2407,7 +2407,7 @@
     {
        "ID":"186",
        "ParentID":"105",
-       "name":"Code for Youth\ufffd",
+       "name":"Code for Youth",
        "website":"",
        "projects_list_url":"https://github.com/codeforyouth",
        "city":"\ufffdSociety that young people and the region to grow together",
@@ -2420,7 +2420,7 @@
     {
        "ID":"187",
        "ParentID":"105",
-       "name":"Code for Cat\ufffd",
+       "name":"Code for Cat",
        "website":"https://code4cat.org/",
        "projects_list_url":"",
        "city":"\ufffdSupport of local cat protection organization",
@@ -2654,7 +2654,7 @@
     {
        "ID":"205",
        "ParentID":"198",
-       "name":"OK Lab D\ufffdsseldorf",
+       "name":"OK Lab Dsseldorf",
        "website":"",
        "projects_list_url":"",
        "city":"",
@@ -2667,7 +2667,7 @@
     {
        "ID":"206",
        "ParentID":"198",
-       "name":"OK Lab Gie\ufffden",
+       "name":"OK Lab Gieen",
        "website":"",
        "projects_list_url":"https://github.com/CodeForGiessen",
        "city":"",
@@ -2771,7 +2771,7 @@
     {
        "ID":"214",
        "ParentID":"198",
-       "name":"OK Lab K\ufffdln",
+       "name":"OK Lab Kln",
        "website":"",
        "projects_list_url":"",
        "city":"",
@@ -2823,7 +2823,7 @@
     {
        "ID":"218",
        "ParentID":"198",
-       "name":"OK Lab M\ufffdnchen",
+       "name":"OK Lab Mnchen",
        "website":"",
        "projects_list_url":"",
        "city":"",
@@ -2836,7 +2836,7 @@
     {
        "ID":"219",
        "ParentID":"198",
-       "name":"OK Lab M\ufffdnster",
+       "name":"OK Lab Mnster",
        "website":"https://codeformuenster.org/",
        "projects_list_url":"https://github.com/codeformuenster/",
        "city":"",
@@ -3239,7 +3239,7 @@
     {
        "ID":"250",
        "ParentID":"2",
-       "name":"Codeando M\ufffdxico",
+       "name":"Codeando Mxico",
        "website":"http://codeandomexico.org/",
        "projects_list_url":"https://github.com/CodeandoMexico",
        "city":"",
@@ -3291,7 +3291,7 @@
     {
        "ID":"254",
        "ParentID":"2",
-       "name":"Ciudadan\ufffda Inteligente",
+       "name":"Ciudadana Inteligente",
        "website":"https://ciudadaniai.org/",
        "projects_list_url":"https://github.com/ciudadanointeligente/",
        "city":"",
