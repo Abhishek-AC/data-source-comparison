@@ -1510,7 +1510,7 @@
     {
        "ID":"117",
        "ParentID":"105",
-       "name":"Code Four Ibaraki",
+       "name":"Code For Ibaraki",
        "website":"https://codeforibaraki.org/",
        "projects_list_url":"",
        "city":"\ufffdIbaraki Prefecture",
@@ -2667,7 +2667,7 @@
     {
        "ID":"206",
        "ParentID":"198",
-       "name":"OK Lab Gieen",
+       "name":"OK Lab Gie\u00dfen",
        "website":"",
        "projects_list_url":"https://github.com/CodeForGiessen",
        "city":"",
@@ -2771,7 +2771,7 @@
     {
        "ID":"214",
        "ParentID":"198",
-       "name":"OK Lab Kln",
+       "name":"OK Lab K\u00f6ln",
        "website":"",
        "projects_list_url":"",
        "city":"",
@@ -2823,7 +2823,7 @@
     {
        "ID":"218",
        "ParentID":"198",
-       "name":"OK Lab Mnchen",
+       "name":"OK Lab M\u00fcnchen",
        "website":"",
        "projects_list_url":"",
        "city":"",
@@ -2836,7 +2836,7 @@
     {
        "ID":"219",
        "ParentID":"198",
-       "name":"OK Lab Mnster",
+       "name":"OK Lab M\u00fcnster",
        "website":"https://codeformuenster.org/",
        "projects_list_url":"https://github.com/codeformuenster/",
        "city":"",
@@ -3239,7 +3239,7 @@
     {
        "ID":"250",
        "ParentID":"2",
-       "name":"Codeando Mxico",
+       "name":"Codeando M\u00e9xico",
        "website":"http://codeandomexico.org/",
        "projects_list_url":"https://github.com/CodeandoMexico",
        "city":"",
