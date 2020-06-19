@@ -2401,6 +2401,37 @@
        }
     },
     {
+       "ID__deleted":"117",
+       "ParentID__deleted":"105",
+       "social_profiles__deleted":{
+          "facebook":"https://www.facebook.com/codeforibaraki/?__tn__=%2Cd%2CP-R&eid=ARBDHZp4hkQ6bAKY07h6rsxD5tCaVZDsoO2GEAfaPHV8KsvMpnW8QPzDlrRo9o0G4lVUxmcHQJFp5W04",
+          "twitter":""
+       },
+       "rss__added":"",
+       "latitude__added":"36.3072",
+       "longitude__added":"140.3920",
+       "type__added":"Brigade",
+       "tags__added":[
+          "Brigade"
+       ],
+       "name":{
+          "__old":"Code For Ibaraki",
+          "__new":"Code for Ibaraki"
+       },
+       "website":{
+          "__old":"https://codeforibaraki.org/",
+          "__new":"http://codeforibaraki.org/"
+       },
+       "projects_list_url":{
+          "__old":"",
+          "__new":"https://github.com/codeforibaraki"
+       },
+       "city":{
+          "__old":"�Ibaraki Prefecture",
+          "__new":"Ibaraki, Japan"
+       }
+    },
+    {
        "ID__deleted":"118",
        "ParentID__deleted":"105",
        "social_profiles__deleted":{
@@ -2949,6 +2980,34 @@
        }
     },
     {
+       "ID__deleted":"206",
+       "ParentID__deleted":"198",
+       "social_profiles__deleted":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforgi"
+       },
+       "rss__added":"",
+       "latitude__added":"50.5871",
+       "longitude__added":"8.6909",
+       "type__added":"Brigade, OK Lab",
+       "tags__added":[
+          "Brigade",
+          "OK Lab"
+       ],
+       "website":{
+          "__old":"",
+          "__new":"http://codefor.de/giessen"
+       },
+       "city":{
+          "__old":"",
+          "__new":"Gießen, Germany"
+       },
+       "events_url":{
+          "__old":"https://www.meetup.com/OK-Lab-Gie%C3%9Fen/",
+          "__new":"http://www.meetup.com/OK-Lab-Giessen/"
+       }
+    },
+    {
        "ID__deleted":"207",
        "ParentID__deleted":"198",
        "social_profiles__deleted":{
@@ -3069,6 +3128,38 @@
        }
     },
     {
+       "ID__deleted":"214",
+       "ParentID__deleted":"198",
+       "social_profiles__deleted":{
+          "facebook":"",
+          "twitter":"https://twitter.com/codeforcologne"
+       },
+       "rss__added":"",
+       "latitude__added":"50.9500",
+       "longitude__added":"6.9667",
+       "type__added":"Brigade, OK Lab",
+       "tags__added":[
+          "Brigade",
+          "OK Lab"
+       ],
+       "website":{
+          "__old":"",
+          "__new":"http://codefor.de/koeln"
+       },
+       "projects_list_url":{
+          "__old":"",
+          "__new":"https://github.com/codeforcologne/"
+       },
+       "city":{
+          "__old":"",
+          "__new":"Cologne, Germany"
+       },
+       "events_url":{
+          "__old":"https://www.meetup.com/OKLab-Koln-Meetup/",
+          "__new":"http://www.meetup.com/OKLab-Koln-Meetup"
+       }
+    },
+    {
        "ID__deleted":"215",
        "ParentID__deleted":"198",
        "social_profiles__deleted":{
@@ -3126,6 +3217,70 @@
        "events_url":{
           "__old":"https://www.meetup.com/OK-Lab-Magdeburg/",
           "__new":"http://www.meetup.com/OK-Lab-Magdeburg/"
+       }
+    },
+    {
+       "ID__deleted":"218",
+       "ParentID__deleted":"198",
+       "social_profiles__deleted":{
+          "facebook":"",
+          "twitter":""
+       },
+       "rss__added":"",
+       "latitude__added":"48.1333",
+       "longitude__added":"11.5667",
+       "type__added":"Brigade, OK Lab",
+       "tags__added":[
+          "Brigade",
+          "OK Lab"
+       ],
+       "website":{
+          "__old":"",
+          "__new":"http://codefor.de/muenchen"
+       },
+       "projects_list_url":{
+          "__old":"",
+          "__new":"https://github.com/codeformunich"
+       },
+       "city":{
+          "__old":"",
+          "__new":"Munich, Germany"
+       },
+       "events_url":{
+          "__old":"https://www.meetup.com/code-for-muenchen/",
+          "__new":"http://www.meetup.com/OK-Lab-Munchen/"
+       }
+    },
+    {
+       "ID__deleted":"219",
+       "ParentID__deleted":"198",
+       "social_profiles__deleted":{
+          "facebook":"",
+          "twitter":""
+       },
+       "rss__added":"",
+       "latitude__added":"51.9667",
+       "longitude__added":"7.6333",
+       "type__added":"Brigade, OK Lab",
+       "tags__added":[
+          "Brigade",
+          "OK Lab"
+       ],
+       "website":{
+          "__old":"https://codeformuenster.org/",
+          "__new":"http://codefor.de/muenster"
+       },
+       "projects_list_url":{
+          "__old":"https://github.com/codeformuenster/",
+          "__new":"https://github.com/codeformuenster"
+       },
+       "city":{
+          "__old":"",
+          "__new":"Muenster, Germany"
+       },
+       "events_url":{
+          "__old":"",
+          "__new":"http://www.meetup.com/OK-Lab-Munster/"
        }
     },
     {
@@ -3372,6 +3527,28 @@
        "events_url":{
           "__old":"",
           "__new":"https://www.meetup.com/Code-For-NL/"
+       }
+    },
+    {
+       "ID__deleted":"250",
+       "ParentID__deleted":"2",
+       "social_profiles__deleted":{
+          "facebook":"https://www.facebook.com/CodeandoMexico/",
+          "twitter":"https://twitter.com/CodeandoMexico"
+       },
+       "rss__added":"http://blog.codeandomexico.org/",
+       "latitude__added":"23.6267",
+       "longitude__added":"-102.5375",
+       "tags__added":[
+          "Code for All"
+       ],
+       "website":{
+          "__old":"http://codeandomexico.org/",
+          "__new":"http://codeandomexico.org"
+       },
+       "city":{
+          "__old":"",
+          "__new":"Mexico City, Mexico"
        }
     },
     {

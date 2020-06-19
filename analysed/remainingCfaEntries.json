@@ -282,20 +282,6 @@
        ]
     },
     {
-       "name":"Code for Ibaraki",
-       "website":"http://codeforibaraki.org/",
-       "events_url":"",
-       "rss":"",
-       "projects_list_url":"https://github.com/codeforibaraki",
-       "city":"Ibaraki, Japan",
-       "latitude":"36.3072",
-       "longitude":"140.3920",
-       "type":"Brigade",
-       "tags":[
-          "Brigade"
-       ]
-    },
-    {
        "name":"Code for Ireland",
        "website":"http://codeforireland.com/",
        "events_url":"http://codeforireland.com/events/",
@@ -566,19 +552,6 @@
        ]
     },
     {
-       "name":"Codeando México",
-       "website":"http://codeandomexico.org",
-       "events_url":"",
-       "rss":"http://blog.codeandomexico.org/",
-       "projects_list_url":"https://github.com/CodeandoMexico",
-       "city":"Mexico City, Mexico",
-       "latitude":"23.6267",
-       "longitude":"-102.5375",
-       "tags":[
-          "Code for All"
-       ]
-    },
-    {
        "name":"CodeNamu",
        "website":"http://codenamu.org",
        "events_url":"http://www.meetup.com/Code-for-Seoul",
@@ -748,21 +721,6 @@
        ]
     },
     {
-       "name":"OK Lab Gießen",
-       "website":"http://codefor.de/giessen",
-       "events_url":"http://www.meetup.com/OK-Lab-Giessen/",
-       "rss":"",
-       "projects_list_url":"https://github.com/CodeForGiessen",
-       "city":"Gießen, Germany",
-       "latitude":"50.5871",
-       "longitude":"8.6909",
-       "type":"Brigade, OK Lab",
-       "tags":[
-          "Brigade",
-          "OK Lab"
-       ]
-    },
-    {
        "name":"Code for Hamburg",
        "website":"http://codeforhamburg.org",
        "events_url":"http://www.meetup.com/codeforhamburg/",
@@ -771,51 +729,6 @@
        "city":"Hamburg, Germany",
        "latitude":"53.54762",
        "longitude":"9.97776",
-       "type":"Brigade, OK Lab",
-       "tags":[
-          "Brigade",
-          "OK Lab"
-       ]
-    },
-    {
-       "name":"OK Lab Köln",
-       "website":"http://codefor.de/koeln",
-       "events_url":"http://www.meetup.com/OKLab-Koln-Meetup",
-       "rss":"",
-       "projects_list_url":"https://github.com/codeforcologne/",
-       "city":"Cologne, Germany",
-       "latitude":"50.9500",
-       "longitude":"6.9667",
-       "type":"Brigade, OK Lab",
-       "tags":[
-          "Brigade",
-          "OK Lab"
-       ]
-    },
-    {
-       "name":"OK Lab München",
-       "website":"http://codefor.de/muenchen",
-       "events_url":"http://www.meetup.com/OK-Lab-Munchen/",
-       "rss":"",
-       "projects_list_url":"https://github.com/codeformunich",
-       "city":"Munich, Germany",
-       "latitude":"48.1333",
-       "longitude":"11.5667",
-       "type":"Brigade, OK Lab",
-       "tags":[
-          "Brigade",
-          "OK Lab"
-       ]
-    },
-    {
-       "name":"OK Lab Münster",
-       "website":"http://codefor.de/muenster",
-       "events_url":"http://www.meetup.com/OK-Lab-Munster/",
-       "rss":"",
-       "projects_list_url":"https://github.com/codeformuenster",
-       "city":"Muenster, Germany",
-       "latitude":"51.9667",
-       "longitude":"7.6333",
        "type":"Brigade, OK Lab",
        "tags":[
           "Brigade",

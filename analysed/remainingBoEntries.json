@@ -299,19 +299,6 @@
        }
     },
     {
-       "ID":"117",
-       "ParentID":"105",
-       "name":"Code Four Ibaraki",
-       "website":"https://codeforibaraki.org/",
-       "projects_list_url":"",
-       "city":"�Ibaraki Prefecture",
-       "events_url":"",
-       "social_profiles":{
-          "facebook":"https://www.facebook.com/codeforibaraki/?__tn__=%2Cd%2CP-R&eid=ARBDHZp4hkQ6bAKY07h6rsxD5tCaVZDsoO2GEAfaPHV8KsvMpnW8QPzDlrRo9o0G4lVUxmcHQJFp5W04",
-          "twitter":""
-       }
-    },
-    {
        "ID":"119",
        "ParentID":"105",
        "name":"Code for Kumagaya",
@@ -1183,19 +1170,6 @@
        }
     },
     {
-       "ID":"206",
-       "ParentID":"198",
-       "name":"OK Lab Gieen",
-       "website":"",
-       "projects_list_url":"https://github.com/CodeForGiessen",
-       "city":"",
-       "events_url":"https://www.meetup.com/OK-Lab-Gie%C3%9Fen/",
-       "social_profiles":{
-          "facebook":"",
-          "twitter":"https://twitter.com/codeforgi"
-       }
-    },
-    {
        "ID":"208",
        "ParentID":"198",
        "name":"OK Lab Hamburg",
@@ -1235,50 +1209,11 @@
        }
     },
     {
-       "ID":"214",
-       "ParentID":"198",
-       "name":"OK Lab Kln",
-       "website":"",
-       "projects_list_url":"",
-       "city":"",
-       "events_url":"https://www.meetup.com/OKLab-Koln-Meetup/",
-       "social_profiles":{
-          "facebook":"",
-          "twitter":"https://twitter.com/codeforcologne"
-       }
-    },
-    {
        "ID":"217",
        "ParentID":"198",
        "name":"OK Lab Mecklenburg-Vorpommern",
        "website":"https://listi.jpberlin.de/mailman/listinfo/codeformv",
        "projects_list_url":"",
-       "city":"",
-       "events_url":"",
-       "social_profiles":{
-          "facebook":"",
-          "twitter":""
-       }
-    },
-    {
-       "ID":"218",
-       "ParentID":"198",
-       "name":"OK Lab Mnchen",
-       "website":"",
-       "projects_list_url":"",
-       "city":"",
-       "events_url":"https://www.meetup.com/code-for-muenchen/",
-       "social_profiles":{
-          "facebook":"",
-          "twitter":""
-       }
-    },
-    {
-       "ID":"219",
-       "ParentID":"198",
-       "name":"OK Lab Mnster",
-       "website":"https://codeformuenster.org/",
-       "projects_list_url":"https://github.com/codeformuenster/",
        "city":"",
        "events_url":"",
        "social_profiles":{
@@ -1557,19 +1492,6 @@
        "social_profiles":{
           "facebook":"",
           "twitter":""
-       }
-    },
-    {
-       "ID":"250",
-       "ParentID":"2",
-       "name":"Codeando Mxico",
-       "website":"http://codeandomexico.org/",
-       "projects_list_url":"https://github.com/CodeandoMexico",
-       "city":"",
-       "events_url":"",
-       "social_profiles":{
-          "facebook":"https://www.facebook.com/CodeandoMexico/",
-          "twitter":"https://twitter.com/CodeandoMexico"
        }
     },
     {
